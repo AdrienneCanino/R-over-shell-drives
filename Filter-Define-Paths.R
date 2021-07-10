@@ -26,7 +26,7 @@ dplyr::filter(df_AX81)
 summarise(df_AX81$subdirectory3)
 
 #Hm, not applicable to object of class "character" , which makes sense, and I did not think of that
-#First, to treat, subdirectory3, 4, 5, hell all of them, as, cateogries
+#First, to treat, subdirectory3, 4, 5, hell all of them, as, categories
 
 df_AX81$subdirectory3 <- as.factor(df_AX81$subdirectory3)
 df_AX81 %>%
@@ -63,8 +63,7 @@ str_which(df_AX81$subdirectory6, regex(".csv$", ignore_case=TRUE, ))
 str_which(df_AX81$path, regex(".csv$", ignore_case=TRUE, ))
 #and, nothing  in any of the other locations, so. Let's see if this work the way I wanted
 
-
-df_AX81$subdirectory6[2010,]
+df_AX81$subdirectory6[2010]
 # "deploymentInfo.csv" , so, yeah, that's what I wanted. Now for the whole, row of values
 #so the csvs are in subdirectory3
 
@@ -109,6 +108,7 @@ length(wavs_index81)
 #so 13334 wav files, but I knew that?
 #make dataframe of all the wavs files
 df_wavs81 <-df_ax81[wavs_index81,]
+head(df_wavs81)
 
 #find the groupings of those
 #I have to not only group, but then do another dplyr thing to the grouped df
@@ -126,10 +126,85 @@ df_wavs81 %>%
 # 2 shell                       5988
 # 3 Shell Shallow Hazards 2013   192
 
-#so most of the wave files are in fw, I think I'll need more information than that
+#so most of the wave files are in fw, I think I'll need more information than that, I'm going to look down a level and see if I can get more
 
 df_wavs81$subdirectory4 <- as_factor(df_wavs81$subdirectory4)
 levels(df_wavs81$subdirectory4)
-#2? really? I have much distrust. Yeah, totally not, I did something wrong there.
-#so a good place to call it for today.
+sub4_lvls<- levels(df_wavs81$subdirectory4)
 
+#2? really? I have much distrust. Yeah, totally not, I did something wrong there.
+
+tail(df_wavs81$subdirectory4)
+
+#These are, specific to only where there are wav files, let's check against the total dataframe to see how off the thing is
+df_ax81$subdirectory4 <- as_factor(df_ax81$subdirectory4)
+levels(df_ax81$subdirectory4)
+
+#ah, in this instance, I get 22 levels? 
+#I still feel suspicious, like AMAR B 226 should have some wav files, not just, the others.
+#let's see how many files are in each subdirectory 4, a summarise table by count again
+
+df_ax81 %>%
+  group_by(subdirectory4) %>%
+  summarise(n=n()) %>%
+  view()
+
+#so of all of Jen's analysis folder, 1702 files, there are NO wav files in there?
+#AMAR B 226 only has like 7 files, AMAR A and C only 11. So, maybe , it makes sense there are no wavs in there?
+
+#What happens if I look up a level
+
+df_wavs81$subdirectory2 <- as_factor(df_wavs81$subdirectory2)
+levels(df_wavs81$subdirectory2)
+
+#not that helpful, that would be why I focused on subdir3 in the first place.
+ 
+#well, anyway, I can get a list of these file paths, 13,334 of them. 
+
+df_wavs81$file_path
+
+#so that means I can write them out
+write_lines(df_wavs81$file_path, "Documents/R-over-shell-drives/ax81-WAV-file-paths.txt")
+write_lines(df_ax81$file_path[csvs_index81], "Documents/R-over-shell-drives/ax81-CSV-file-paths.txt")
+
+#but this doesn't answer the question of, are there sensible groupings within? I can still use some useful dplyr tools to try to answer that question
+
+#for instance, if all teh wav files show up in just 2 subdirectories, what are the next places where they show up?
+
+unique(df_wavs81$subdirectory5)
+unique(df_wavs81$subdirectory6)
+
+?cur_column
+
+sum(df_wavs81$subdirectory3 == "fw")
+levels(df_wavs81$subdirectory3)
+
+#There are wav files in the trash and recycling bin?
+
+df_wavs81 %>%
+  group_by(subdirectory3) %>%
+  summarise(n=n()) %>%
+  view()
+
+#that's confusing, there are the factor levels of it in the dataframe, but they do not get grouped with anything to count in the summarise function
+#so there are not files, there's just, the factor level of the subdirectory?
+
+tail(df_wavs81, 25) %>% view()
+
+df_wavs81 %>%
+  filter(subdirectory3 == "RECYCLER")
+
+# tibble: 0 x 13
+# … with 13 variables.... 
+#OK, so, there are no wav files in Recycler, it just, retains it's levels from previous dataframes?
+
+#So my starting place for wav file organizatio are the 3 subdirectories that have wav files, in this drive:
+#fw, shell, and Shell Shallow Hazards 2013
+
+df_wavs81 %>%
+  filter(subdirectory3 == "fw") %>%
+  group_by(subdirectory4) %>%
+  view()
+#chuckchi
+
+levels(df_wavs81$subdirectory5)
