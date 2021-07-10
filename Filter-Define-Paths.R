@@ -207,4 +207,11 @@ df_wavs81 %>%
   view()
 #chuckchi
 
-levels(df_wavs81$subdirectory5)
+
+df_wavs81 %>%
+  mutate_if(is.character,funs(factor(.)))
+
+df_wavs81 %>%
+  filter(subdirectory3 == "fw") %>%
+  group_by(subdirectory5) %>%
+  summarise(n=n())
