@@ -20,6 +20,7 @@ df_AX81 <- read_delim("Documents/new.invs/shell.ax81", '/', escape_backslash=FAL
 
 #Or, check if I still have my environment
 df_wavs81
+df_csvs81
 
 #get to the targetFolders
 #that means, understanding how many sub directories have wav files, and grouping them
@@ -150,7 +151,8 @@ head(a)
 unique(a)
 
 #curiouser and curiouser, I get different answers every time I try for the list of subfolders that I want.
-#and they all make sense.
+#and they all make sense. this is because of the subsetting of the file skipping column 1 and then using the non subset df to look up the value. So in the above I had to make a subset df and commit to it from here on.
+
 df[13334,10:12]
 
 #how can I see what's up in this list I made?
@@ -198,12 +200,44 @@ sum(str_detect(wn40_filepaths, "mnt/shell/ax81/shell/chukchi/2009-overwinter/WN4
 ?str_detect
 #5988, so yes all of them are in the chukchi/2009-overwinter folder
 
-#how can I get the volume of files reported to me? In.... this dataframe?
-install.packages("fs")
-library("fs")
-?fs
-dir_ls()
-#But, I have to get into the volumes, as in mnt/shell/, to do that work
-#Can I do that through, this terminal?
-#Yes, but there's errors throwing about the mont point not existing.
+
+#And, now the same for CSVs
+df2 <- df_csvs81[,2:13]
+
+x =c()
+for (i in 1:dim(df2)[1]){
+  penult <- str_which(df2[i,], regex(".csv$", ignore_case = TRUE)) #find the wav file
+  targetFolderIndex <-  penult-1 #look one before it to get the index number of the target folder
+  #print(r[targetFolderIndex]) #print the value in the targetFolder cell
+  tf <- df2[[i,targetFolderIndex]] #assign that value (and only the value hence doubl []) to a temp object
+  x <- append(x, tf) #put it in the empty list I started
+}
+head(x)
+unique(x)
+#"2009-overwinter" "2014-summer"     "2013-overwinter"
+#which makes perfect sense
+pattern <-  c("2009-overwinter","2014-summer","2013-overwinter")
+deployment_filepaths <- tibble()
+for(thing in pattern){
+  deployment_filepaths <- append(deployment_filepaths, as.character(str_subset(df_csvs81$file_path,thing)))
+}
+
+deployment_filepaths
+unique(deployment_filepaths)
+
+# [1] "mnt/shell/ax81/shell/chukchi/2009-overwinter/deploymentInfo.csv"
+# 
+# [[2]]
+# [1] "mnt/shell/ax81/fw/chukchi/2014-summer/deploymentInfo.csv"
+# 
+# [[3]]
+# [1] "mnt/shell/ax81/fw/chukchi/2013-overwinter/deploymentInfo.csv"
+
+sum(str_detect(deployment_filepaths, "mnt/shell/ax81/shell/chukchi/2009-overwinter/deploymentInfo.csv"))
+
+#why is this 9? This file path got identified, 9 times, in the dataframe that subset for files ending in csv
+sum(str_detect(deployment_filepaths, "mnt/shell/ax81/fw/chukchi/2014-summer/deploymentInfo.csv"))
+#1, that was the expected answer
+sum(str_detect(deployment_filepaths, "mnt/shell/ax81/fw/chukchi/2013-overwinter/deploymentInfo.csv"))
+#14, exciting.
 

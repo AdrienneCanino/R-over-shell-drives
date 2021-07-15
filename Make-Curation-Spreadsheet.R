@@ -42,3 +42,4 @@ curation_df <- curation_df[-c(2:10)]
 amar219yada_filepaths[1]
 newRow <- data.frame(drive = "ax81", `file-path`="mnt/shell/ax81/fw/chukchi/2013-overwinter/CL05/stitiched wavs/AMAR219.1.16000.M8EV35dB/", `file-count`=7154, `start-year`=2013, "instrument-name", "stationID", "recorderID", "lat", "long", "file-type","total-volume","preserve-decision")
 curation_df <- rbind(curation_df, newRow )
+

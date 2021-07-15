@@ -88,6 +88,7 @@ csvs_index81 <-c(2010, 2027, 2044, 2061, 2078, 2095, 2112, 2112, 2129, 8150, 824
 
 df_ax81$file_path[csvs_index81]
 
+df_csvs81 <- df_ax81[csvs_index81,]
 #hooray!
 
 #Let's do the same for WAVs
