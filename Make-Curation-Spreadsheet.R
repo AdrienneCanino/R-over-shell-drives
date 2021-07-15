@@ -20,3 +20,25 @@ df_AX81 <- read_delim("Documents/new.invs/shell.ax81", '/', escape_backslash=FAL
 
 #Or, check if I still have my environment
 df_wavs81
+
+#So I left off needing to put everything together into a useful dataframe. 
+#It's gonna be harder than expected. 
+
+#first, the things we want in the spreadsheet
+
+header <- c("drive","file-path", "instrument-name", "start-year", "stationID", "recorderID", "lat", "long", "file-type","file-count","total-volume","preserve-decision")
+curation_df <- data.frame(matrix(nrow=10, ncol=length(header)))
+colnames(curation_df) <- header
+curation_df
+?tibble
+
+curation_df$drive == "ax81"
+curation_df$`file-path` <- "mnt/shell/ax81/shell/chukchi/2009-overwinter/WN40"
+curation_df$`file-count` <- 5988
+curation_df$`start-year` <-  2009
+
+curation_df <- curation_df[-c(2:10)]
+
+amar219yada_filepaths[1]
+newRow <- data.frame(drive = "ax81", `file-path`="mnt/shell/ax81/fw/chukchi/2013-overwinter/CL05/stitiched wavs/AMAR219.1.16000.M8EV35dB/", `file-count`=7154, `start-year`=2013, "instrument-name", "stationID", "recorderID", "lat", "long", "file-type","total-volume","preserve-decision")
+curation_df <- rbind(curation_df, newRow )
