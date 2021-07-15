@@ -197,3 +197,4 @@ sum(str_detect(wn40_filepaths, "mnt/shell/ax81/shell/chukchi/2009-overwinter/WN4
 #doesn't like the pipe?
 ?str_detect
 #5988, so yes all of them are in the chukchi/2009-overwinter folder
+
