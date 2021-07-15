@@ -1,6 +1,6 @@
 ##Using R to do Shell Data curation
 #Adrienne trying to at least
-#Last updated: June 2021
+#Last updated: July 2021
 #git repo for folder with script, etc
 #data too big, stored in neighboring directory for access
 #using gitrepo https://github.com/AdrienneCanino/R-over-shell-drives.git
@@ -198,7 +198,7 @@ df_wavs81 %>%
 # … with 13 variables.... 
 #OK, so, there are no wav files in Recycler, it just, retains it's levels from previous dataframes?
 
-#So my starting place for wav file organizatio are the 3 subdirectories that have wav files, in this drive:
+#So my starting place for wav file organization are the 3 subdirectories that have wav files, in this drive:
 #fw, shell, and Shell Shallow Hazards 2013
 
 df_wavs81 %>%
@@ -207,10 +207,11 @@ df_wavs81 %>%
   view()
 #chuckchi
 
-
+#make each column factor
 df_wavs81 %>%
   mutate_if(is.character,funs(factor(.)))
 
+#group by subdirectory5, aonly in "fw" subdirectory3, and count
 df_wavs81 %>%
   filter(subdirectory3 == "fw") %>%
   group_by(subdirectory5) %>%
