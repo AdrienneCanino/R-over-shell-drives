@@ -198,3 +198,12 @@ sum(str_detect(wn40_filepaths, "mnt/shell/ax81/shell/chukchi/2009-overwinter/WN4
 ?str_detect
 #5988, so yes all of them are in the chukchi/2009-overwinter folder
 
+#how can I get the volume of files reported to me? In.... this dataframe?
+install.packages("fs")
+library("fs")
+?fs
+dir_ls()
+#But, I have to get into the volumes, as in mnt/shell/, to do that work
+#Can I do that through, this terminal?
+#Yes, but there's errors throwing about the mont point not existing.
+
