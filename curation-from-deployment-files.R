@@ -1,10 +1,25 @@
-#trying to do a different curation spreadsheet
+##Using R to do Shell Data curation
+#Adrienne trying to at least
+#Last updated: July 2021
+#git repo for folder with script, etc
+#data too big, stored in neighboring directory for access
+#using gitrepo https://github.com/AdrienneCanino/R-over-shell-drives.git
 
+#trying to do a different curation spreadsheet, using existing deployment info spreadsheets
+
+# Load up data wrangling environment
+#I always want tidyverse? Yea, I always want tidyverse.
+#install.packages('tidyverse')
+library("tidyverse")
 
 # # create a dataframe of deployments on drives, modelled on the deploymentInfo.csv from ax70.
 # 
 # drive.deploy = pd.read_csv("deploymentInfo.csv", names =[drive, recorderId, recorderMake, recorderVersion, stationId, hydrophoneId, hydrophoneMake, sampleRate, channels, bitsPerSample, fileStructure, startDate, startTime, driveNo, latitude, longitude, meters, dropDate, dropTime, recoveryDate, recoveryTime, vPerBit, sensitivity, sensitivityFrequencyPoint, Calibrations for Frequency Points, file volume, file name, file path, preserve]
-#                            
+#in R:
+#But I can't actually get to the csv, until I figure out my /mnt
+drive81-deploy = read_csv()
+
+
 #                            # look through the text inventory for each drive for wav files
 #                            # grep sometimes seems to return duplicates though, so the second part is to try and address that. I think it would work.
 #                            $ grep ".wav" drive.inv.txt | sort -u > drive.wavs
