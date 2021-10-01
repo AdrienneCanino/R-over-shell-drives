@@ -45,3 +45,4 @@ newRow <- data.frame(drive = "ax81", `file-path`="mnt/shell/ax81/fw/chukchi/2013
 curation_df <- rbind(curation_df, newRow )
 
 # Don't want that, what I really want is to use existing info files that are around
+

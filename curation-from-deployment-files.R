@@ -14,6 +14,13 @@ library("tidyverse")
 
 # # create a dataframe of deployments on drives, modelled on the deploymentInfo.csv from ax70.
 # test
+#This works
+drive81Deploys <- read.table("~/Documents/R-over-shell-drives/CSV-copied/deploymentInfo-OV2013.csv", 
+                             header=F, sep="," ,
+                             blank.lines.skip = FALSE, comment.char="")
+view(drive81Deploys)
+#the challenge is definitely that thats just, ugly.
+#some of that information, matches the folder structure? coincidence?
 
 #make a clean deployment dataframe
 clean81deploy <- drive81Deploys[6:13,2:71]
@@ -31,6 +38,7 @@ colnames(clean81deploy) <-x
 #look at it? it had two headders
 #fill back in some of the information, will this all be necessary to keep? seems like not
 clean81deploy[-1,]
+view(clean81deploy)
 clean81deploy$clientID <-  "fw"
 clean81deploy$region <-  "Chuckchi"
 clean81deploy$season <- "2013 overwinter"
@@ -56,17 +64,20 @@ for (f in files){
   dat <- read.table(f, header=F, sep=",",blank.lines.skip = FALSE, comment.char="") #read table
   dat <- dat[-c(1:6),-1] #drop row weirdness
   #seems like, there's not a good way right away to preserve the 3 values in that row weirdness
-  colnames(dat, deployCol, )
+  print(dat)
+  colnames(dat, deployCol)
   deployDF <- rbind(deployDF, dat)
 }
 #Error: number of coluymns of arguments do not match..... that's odd?
 #whoa, OW09 does have significantly fewer columns. Is that going to happen often?
+#trying again, error: Error in is.data.frame(x) && do.NULL : invalid 'y' type in 'x && y', 
 
 #that didn't work, it's missing the key few rows that are the best functional header in this spreadsheet
 #even with options maxed out, lines 1 and 6 in the spreadsheet aren't translating into the dataframe
+
 #The problem had been using 'fill=T' in read.table(), it was making the number of cols misread.
 #the comment character was '#', so it was reading lines 1 AND 6 as comments, thus leaving them out of the final dataframe. #tricky tricky
-
+#still not wroking well?
 
 
 #in Python:
