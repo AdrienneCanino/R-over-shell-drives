@@ -30,8 +30,9 @@ header <- c("drive","file-path", "instrument-name", "start-year", "stationID", "
 curation_df <- data.frame(matrix(nrow=10, ncol=length(header)))
 colnames(curation_df) <- header
 curation_df
-?tibble
+# an empty tibble
 
+# this, is setting a bunch of values, hard code way
 curation_df$drive == "ax81"
 curation_df$`file-path` <- "mnt/shell/ax81/shell/chukchi/2009-overwinter/WN40"
 curation_df$`file-count` <- 5988
@@ -43,3 +44,4 @@ amar219yada_filepaths[1]
 newRow <- data.frame(drive = "ax81", `file-path`="mnt/shell/ax81/fw/chukchi/2013-overwinter/CL05/stitiched wavs/AMAR219.1.16000.M8EV35dB/", `file-count`=7154, `start-year`=2013, "instrument-name", "stationID", "recorderID", "lat", "long", "file-type","total-volume","preserve-decision")
 curation_df <- rbind(curation_df, newRow )
 
+# Don't want that, what I really want is to use existing info files that are around

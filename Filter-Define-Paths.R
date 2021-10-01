@@ -10,6 +10,7 @@
 #install.packages('tidyverse')
 library("tidyverse")
 
+
 #Make Dataframe if necessary
 columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
 df_AX81 <- read_delim("Documents/new.invs/shell.ax81", '/', escape_backslash=FALSE, col_names = columnNames)
@@ -82,10 +83,10 @@ df_ax81 <- unite(df_AX81, col = "file_path", 1:12, remove = FALSE, na.rm = T, se
 
 #That was kind of a sidebar, what I still want is, all the csvs, which I have those index numbers now.
 #so I should be able to output, the path col value, where those index are, right?
-
+rm(df_AX81)
 #ok first make the object holding the index values
-csvs_index81 <-c(2010, 2027, 2044, 2061, 2078, 2095, 2112, 2112, 2129, 8150, 8243, 8251, 8259, 8267, 8275, 8283, 8291)
-
+csvs_index81 <-str_which(df_ax81$file_path, regex(".csv$", ignore_case=TRUE))
+length(csvs_index81)
 df_ax81$file_path[csvs_index81]
 
 df_csvs81 <- df_ax81[csvs_index81,]
@@ -94,8 +95,8 @@ df_csvs81 <- df_ax81[csvs_index81,]
 #Let's do the same for WAVs
 
 str_which(df_ax81$file_path, regex(".wav$", ignore_case=TRUE, ))
-
-#Whoa, that's a lot, is it right?
+length(str_which(df_ax81$file_path, regex(".wav$", ignore_case=TRUE, )))
+#Whoa, 13334 - that's a lot, is it right? Must be right.
 
 df_ax81$file_path[2480]
 #hmm,  "mnt/shell/ax81/shell/chukchi/2009-overwinter/WN40/F42C1113.WAV"
@@ -108,6 +109,7 @@ wavs_index81 <- str_which(df_ax81$file_path, regex(".wav$", ignore_case=TRUE, ))
 length(wavs_index81)
 #so 13334 wav files, but I knew that?
 #make dataframe of all the wavs files
+
 df_wavs81 <-df_ax81[wavs_index81,]
 head(df_wavs81)
 
@@ -151,6 +153,14 @@ df_ax81 %>%
   view()
 
 #so of all of Jen's analysis folder, 1702 files, there are NO wav files in there?
+df_ax81 %>% 
+  filter(subdirectory4 == "Jen's Analysis folder") %>%
+  filter(subdirectory5 == "SB - Echosounder") %>% #picking the folder with the most files
+  group_by(subdirectory6)%>% #how many unique things are in this folder, according to this dataframe of file paths?
+  summarise(n=n())
+
+#Ok, so I may believe it that Jen's Analysis folder doesn't have any .wav files
+
 #AMAR B 226 only has like 7 files, AMAR A and C only 11. So, maybe , it makes sense there are no wavs in there?
 
 #What happens if I look up a level
@@ -184,8 +194,7 @@ levels(df_wavs81$subdirectory3)
 
 df_wavs81 %>%
   group_by(subdirectory3) %>%
-  summarise(n=n()) %>%
-  view()
+  summarise(n=n())
 
 #that's confusing, there are the factor levels of it in the dataframe, but they do not get grouped with anything to count in the summarise function
 #so there are not files, there's just, the factor level of the subdirectory?
@@ -204,7 +213,7 @@ df_wavs81 %>%
 
 df_wavs81 %>%
   filter(subdirectory3 == "fw") %>%
-  group_by(subdirectory4) %>%
+  group_by(subdirectory4)%>%
   view()
 #chuckchi
 
@@ -217,3 +226,32 @@ df_wavs81 %>%
   filter(subdirectory3 == "fw") %>%
   group_by(subdirectory5) %>%
   summarise(n=n())
+
+#Hm, what I really need is unique values grouped by then count
+
+
+df_wavs81 %>%
+    group_by(subdirectory3, subdirectory4, subdirectory5, subdirectory6) %>%
+    summarise(n=n())
+
+#now we're talking
+df_wavs81 %>%
+  count(subdirectory3, subdirectory4, subdirectory5, subdirectory6, sort = TRUE)
+
+#now I can see, that only in fw and Shell do I need to do more work in subdirectory 6
+
+df_wavs81 %>%
+  filter(subdirectory3=="fw") %>% 
+  count(subdirectory4, subdirectory5, subdirectory6, subdirectory7, subdirectory8, subdirectory9, sort=TRUE) %>% 
+  view()
+
+#this is very manual
+
+df_wavs81 %>%
+  filter(subdirectory3=="shell") %>% 
+  count(subdirectory4, subdirectory5, 
+        subdirectory6, #subdirectory7, 
+        #subdirectory8, subdirectory9, 
+        sort=TRUE)
+#Wait, this is interesting, is there a count of 3 of the exact same file?
+#similar to the csvs situation?
