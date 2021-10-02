@@ -109,31 +109,70 @@ drive81Deploy2009 <- read.table("~/Documents/R-over-shell-drives/CSV-copied/depl
                              header=F, sep="," ,
                              blank.lines.skip = FALSE, comment.char="")
 
-drive81Deploy2014 <- read.table("~/Documents/R-over-shell-drives/CSV-copied/deploymentInfo-SU14.csv", 
+#I somehow need to load this one by skipping the lines that imply the #of cols, because otherwise the data gets stacked onto eachother in a very ugly manner
+drive81Deploy2014 <- read.delim("~/Documents/R-over-shell-drives/CSV-copied/deploymentInfo-SU14.csv", 
                                 header=F, sep="," ,
-                                blank.lines.skip = FALSE, comment.char="", skip=5)
+                                blank.lines.skip = FALSE, comment.char="", 
+                                #skip=5
+                                )
 
 #rather than do these by hand, let me see if I can automate everything I just did
-#above is a loop that can do a read file to datafrom from wd, worked well as just that function
-#make a list to iterate through
-deploydflst <- c(drive81Deploy2009, drive81Deploy2014)
 
-for thing in deploysdf:
+#above is a loop that can do a read file to datafrom from wd, worked well as just that function
+setwd("~/Documents/R-over-shell-drives/CSV-copied/")
+files <- list.files("~/Documents/R-over-shell-drives/CSV-copied/", pattern="*.csv")
+
+#make a list to iterate through
+deploydflst <- NULL
+i <- 1
+
+#pull in the deploymentInfo csvs as ugly dataframes in order to extract their fixed information (hopefully)
+for (f in files){
   #need iterator?
-  i <- 1
+  dat <-read.table(f, 
+                   header=F, sep="," ,
+                   blank.lines.skip = FALSE, comment.char="", 
+                   colClasses = c("character","character", "character")) #read table
+  nam <- paste("deployDF", i, sep = "_")
+  print(nam)
+  assign(nam, dat)
+  #make a list to iterate through
+  deploydflst[[i]] <- nam
+  i <- i+1
+}
+#that list isn't what I want
+patter <- ls(pattern="deployDF[0-9]+")
+deploydflst <- lapply(X=ls(pattern="deployDF[0-9]+"), get(x))
+#go through the dataframes and make them clean deployment dataframes with tidy/long details
+
+for (thing in deploydflst){
+
   #pull those three values out
-  clientid <- 
-  region <- 
-  period <- 
+  clientid <- as.character(thing[3,2])
+  region<- as.character(thing[3,3])
+  period <- as.character(thing[3,4])
+  freqPoints <- (thing[5,2:(length(thing))])
+  freqPoints <-
+    freqPoints %>% discard(is.na) %>% as.character()
   #build the header for this one
-  freqpoints <- 
     #less that column that describes but no with value the freqpoints cols
-  tmp <- 
+  tmp <- thing[6,-c(1)]
+  tmp <- tmp %>% discard(is.na) %>% as.character() %>% head(-1) 
   hdr <- c(tmp, freqpoints)
   #trim the df to the cols/rows of deploy info
-  deploydf <- colnames(thing, hdr) %>%
+  thing <- colnames(thing, hdr) %>%
     thing[,-c(1)] %>% 
     thing[-c(1:4),]
+  print(head(thing))
+  #add the columns of the fixed information
+  thing <-  add_column(thing, .before="recorderId", clientid=clientid,region=region,period=period)
+  
+  #rename the deployment dataframe
+  nam <- paste("cleandeployDF", i, sep = "_")
+  print(nam)
+  assign(nam, thing)
+}
+
 
 #OK. So, what I want now, is, a spreadsheet that uses the recorderID and station ID from deploy df, to find the .wav file in wavsdf, and with the matching, make a curation df that lists the info from the relevant row in deploy df (will repeat alot), the wav file path, and file name, and still need to do, calculated values in there like total volume, or just maybe, size of that file, 
 #the subdirectories are in fact a hot mess in ax81.
