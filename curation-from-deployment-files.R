@@ -71,15 +71,39 @@ for (f in files){
   head(dat)
   deployDF <- dplyr::bind_rows(deployDF, dat)
 } #loop finally working!
-#but now I need to add to it.
+#but now I need to add to it - there's two sets of frequency points
 view(deployDF)
-
-#this loop worked once, but it didn't continue the loop?
+#can I subset to exactly those variables reliably?
 #I'm going to look at each deployment df seperately
 files
 drive81Deploy2013 <- read.table("~/Documents/R-over-shell-drives/CSV-copied/deploymentInfo-OV2013.csv", 
                              header=F, sep="," ,
                              blank.lines.skip = FALSE, comment.char="")
+#get extra info
+year13clientid <- as.character(drive81Deploy2013[3,2])
+year13region<- as.character(drive81Deploy2013[3,3])
+year13period <- as.character(drive81Deploy2013[3,4])
+year13FreqPoints <- (drive81Deploy2013[5,2:(length(drive81Deploy2013))])
+year13FreqPoints <-
+  year13FreqPoints %>% discard(is.na) %>% as.character()
+
+#trim dataframe
+drive81Deploy2013 <- drive81Deploy2013 %>% slice(-c(1:4))
+#that, took off the header row too, but that's ok, I'm going to build that list separate
+tmp <- drive81Deploy2009[6,-c(1)]
+tmp <- tmp %>% discard(is.na) %>% as.character() %>% head(-1)
+tmp
+deploy13header <- c(tmp, year13FreqPoints)
+deploy13header
+#glue it onto the dataframe
+colnames(drive81Deploy2013) <- deploy13header
+drive81Deploy2013 <- add_column(drive81Deploy2013, .before="recorderId", client=year13clientid,region=year13region,period=year13period)
+view(drive81Deploy2013)
+#Is this now, the way I want it too? I think so
+
+#So what I want is a loop that does all that automatically
+#and then a match and fill script that uses this dataframe, and the dataframe of the actual info, into a joint dataframe
+#and that's the real curation dataframe?
 
 drive81Deploy2009 <- read.table("~/Documents/R-over-shell-drives/CSV-copied/deploymentInfo-OW09.csv", 
                              header=F, sep="," ,
