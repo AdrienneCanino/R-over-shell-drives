@@ -113,38 +113,49 @@ drive81Deploy2009 <- read.table("~/Documents/R-over-shell-drives/CSV-copied/depl
 drive81Deploy2014 <- read.delim("~/Documents/R-over-shell-drives/CSV-copied/deploymentInfo-SU14.csv", 
                                 header=F, sep="," ,
                                 blank.lines.skip = FALSE, comment.char="", 
-                                #skip=5
+                                col.names=1:71
                                 )
+#rdocs seems to suggest getting length with count.fields before
+wideness <- count.fields("~/Documents/R-over-shell-drives/CSV-copied/deploymentInfo-SU14.csv",sep=",",
+                         skip=5, comment.char = "",blank.lines.skip = FALSE)
+max(wideness)
 
+#alrighty, that variable will hold how many cols i must import when importing deploy csvs
 #rather than do these by hand, let me see if I can automate everything I just did
 
 #above is a loop that can do a read file to datafrom from wd, worked well as just that function
 setwd("~/Documents/R-over-shell-drives/CSV-copied/")
+
 files <- list.files("~/Documents/R-over-shell-drives/CSV-copied/", pattern="*.csv")
 
 #make a list to iterate through
 deploydflst <- NULL
 i <- 1
-
+testlst <-  NULL
 #pull in the deploymentInfo csvs as ugly dataframes in order to extract their fixed information (hopefully)
 for (f in files){
-  #need iterator?
+  #look for number of cols
+  wideness <- count.fields(f,sep=",", comment.char = "",skip=5,blank.lines.skip = FALSE)
+  wideness <- max(wideness)
+  #make dataframe
   dat <-read.table(f, 
                    header=F, sep="," ,
                    blank.lines.skip = FALSE, comment.char="", 
-                   colClasses = c("character","character", "character")) #read table
+                   colClasses = c("character","character", "character"),
+                   col.names = 1:wideness) #read table
   nam <- paste("deployDF", i, sep = "_")
   print(nam)
   assign(nam, dat)
   #make a list to iterate through
-  deploydflst[[i]] <- nam
+  testlst[[i]] <- nam
   i <- i+1
 }
-#that list isn't what I want
-patter <- ls(pattern="deployDF[0-9]+")
-deploydflst <- lapply(X=ls(pattern="deployDF[0-9]+"), get(x))
-#go through the dataframes and make them clean deployment dataframes with tidy/long details
+#that list isn't what I want, but this is:
+deploydflst <- lapply(testlst, get)
 
+#go through the dataframes and make them clean deployment dataframes with tidy/long details
+freqPoints <- NULL
+i=1
 for (thing in deploydflst){
 
   #pull those three values out
@@ -153,17 +164,23 @@ for (thing in deploydflst){
   period <- as.character(thing[3,4])
   freqPoints <- (thing[5,2:(length(thing))])
   freqPoints <-
-    freqPoints %>% discard(is.na) %>% as.character()
+    freqPoints %>% stri_remove_empty(na_empty=TRUE) %>% as.character()
+  print(freqPoints)
+  
   #build the header for this one
     #less that column that describes but no with value the freqpoints cols
-  tmp <- thing[6,-c(1)]
-  tmp <- tmp %>% discard(is.na) %>% as.character() %>% head(-1) 
-  hdr <- c(tmp, freqpoints)
+  tmp <- thing[6,] %>% as.character()
+  tmp <- tmp %>% stri_remove_empty(na_empty=TRUE) %>% as.character() %>% head(-1) 
+  print(tmp)
+  hdr <- c(tmp, freqPoints)
+  print(hdr)
+  
   #trim the df to the cols/rows of deploy info
-  thing <- colnames(thing, hdr) %>%
-    thing[,-c(1)] %>% 
-    thing[-c(1:4),]
+  thing <- thing %>%
+    slice(-c(1:6))
+  colnames(thing) <- hdr
   print(head(thing))
+  
   #add the columns of the fixed information
   thing <-  add_column(thing, .before="recorderId", clientid=clientid,region=region,period=period)
   
@@ -171,9 +188,13 @@ for (thing in deploydflst){
   nam <- paste("cleandeployDF", i, sep = "_")
   print(nam)
   assign(nam, thing)
+  cleandeployDFslst[[i]] <- nam
+  i <- i+1
 }
 
-
+#testing better hdr
+library("stringi")
+stri_remove_empty(tmp, na_empty=TRUE)
 #OK. So, what I want now, is, a spreadsheet that uses the recorderID and station ID from deploy df, to find the .wav file in wavsdf, and with the matching, make a curation df that lists the info from the relevant row in deploy df (will repeat alot), the wav file path, and file name, and still need to do, calculated values in there like total volume, or just maybe, size of that file, 
 #the subdirectories are in fact a hot mess in ax81.
 
