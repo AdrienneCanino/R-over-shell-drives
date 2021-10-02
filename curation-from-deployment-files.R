@@ -113,23 +113,20 @@ drive81Deploy2014 <- read.table("~/Documents/R-over-shell-drives/CSV-copied/depl
                                 header=F, sep="," ,
                                 blank.lines.skip = FALSE, comment.char="", skip=5)
 
+#rather than do these by hand, let me see if I can automate everything I just did
+#above is a loop that can do a read file to datafrom from wd, worked well as just that function
+#make a list to iterate through
+deploydfs <- c(drive81Deploy2009, drive81Deploy2014)
 
 
-view(drive81Deploy2014) #this one is loading in with more rows than appropriate ? Fixed now.
-
-#the subdirectories are in fact a hot mess in ax81.
 
 #OK. So, what I want now, is, a spreadsheet that uses the recorderID and station ID from deploy df, to find the .wav file in wavsdf, and with the matching, make a curation df that lists the info from the relevant row in deploy df (will repeat alot), the wav file path, and file name, and still need to do, calculated values in there like total volume, or just maybe, size of that file, 
-
+#the subdirectories are in fact a hot mess in ax81.
 
 #setup an empty dataframe
 curatedf = data.frame()
 
 #find an exact match of instance in wavs file list, of recorderID and station ID from deployment df
-
-recorderID <- deployDF$recorderId
-stationID <-  clean81deploy$stationId[1]
-recorderID
 
 str_which(df_wavs81[,1], regex(pattern=recorderID, ignore_case = TRUE))
 ?regex
