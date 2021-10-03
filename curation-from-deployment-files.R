@@ -131,6 +131,7 @@ setwd("~/Documents/R-over-shell-drives/CSV-copied/")
 files <- list.files("~/Documents/R-over-shell-drives/CSV-copied/", pattern="*.csv")
 
 #make a list to iterate through
+
 deploydflst <- NULL
 i <- 1
 testlst <-  NULL
@@ -202,6 +203,26 @@ cleandeplydflst <- lapply(cleandeployDFslst, get)
 #Clean up my environment
 rm(freqPoints, files, hdr, i, nam, tmp, wideness, f, clientid, region, period, list=testlst)
 rm(thing, dat, testlst, deploydflst)
+
+
+deploydflst <- c(drive81Deploy2009, drive81Deploy2014)
+
+for thing in deploysdf:
+  #need iterator?
+  i <- 1
+  #pull those three values out
+  clientid <- 
+  region <- 
+  period <- 
+  #build the header for this one
+  freqpoints <- 
+    #less that column that describes but no with value the freqpoints cols
+  tmp <- 
+  hdr <- c(tmp, freqpoints)
+  #trim the df to the cols/rows of deploy info
+  deploydf <- colnames(thing, hdr) %>%
+    thing[,-c(1)] %>% 
+    thing[-c(1:4),]
 
 #OK. So, what I want now, is, a spreadsheet that uses the recorderID and station ID from deploy df, to find the .wav file in wavsdf, and with the matching, make a curation df that lists the info from the relevant row in deploy df (will repeat alot), the wav file path, and file name, and still need to do, calculated values in there like total volume, or just maybe, size of that file, 
 #the subdirectories are in fact a hot mess in ax81.
