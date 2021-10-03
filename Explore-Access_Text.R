@@ -13,15 +13,15 @@ library("tidyverse")
 #get into the data, look at the text files
 #using stringr but also just looking at it
 ?read_delim
-ax81 <- read_delim("Documents/new.invs/shell.ax81", '/n', escape_backslash=FALSE, col_names=FALSE)
+ax81 <- read_delim("./new.invs/shell.ax81", delim='/', escape_backslash=FALSE, col_names=columnNames)
 
 head(ax81)
 ax81[20:30,]
 ax81[110:130,]
 
 #this build a tibble with only 5 columns, and escpaed at any ' I think
-
-ax81 <- read_delim("Documents/new.invs/shell.ax81", '/', escape_backslash=FALSE, escape_double=FALSE, col_names=FALSE)
+ax81 <- tibble(colum)
+ax81 <- read_delim("./new.invs/shell.ax81", '/', escape_backslash=FALSE, escape_double=FALSE, col_names=columnNames, skip_empty_rows = FALSE)
 #first, let's see if we can get more info
 problems(ax81)
 
@@ -31,7 +31,7 @@ vignette("readr")
 #annoying, I need read_lines
 #which was way better to just google. 
 
-ax81 <- read_lines("Documents/new.invs/shell.ax81", skip=0, n_max=-1)
+ax81 <- read_lines_raw("./new.invs/shell.ax81", skip=0)
 ax81[1:20]
 view(ax81)
 ax81[119]
@@ -39,11 +39,11 @@ ax81[119]
 #OK, now I have them as, all strings, the file paths
 #a tibble would be better
 
-df <- ax81 <- read_delim("Documents/new.invs/shell.ax81", '/', escape_backslash=FALSE, col_names=FALSE)
+df <- read_delim(ax81, '/', escape_backslash=FALSE, col_names=columnNames)
 
 #ok, let's try count.fields, an answer on stackoverflow
 ?count_fields
-fieldCount <- count.fields("Documents/new.invs/shell.ax81", '/')
+fieldCount <- count.fields("./new.invs/shell.ax81", '/')
   fieldCount
 
 typeof(fieldCount)
@@ -53,8 +53,12 @@ max(fieldCount, na.rm=TRUE)
 
 
 columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
-df_AX81 <- read_delim("Documents/new.invs/shell.ax81", '/', escape_backslash=FALSE, col_names = columnNames)
-
+df_AX81 <- read_delim("./new.invs/shell.ax81", '/', escape_backslash=FALSE, 
+                      col_types = "c", col_names = columnNames, skip_empty_rows = FALSE)
+df <- read_table("./new.invs/shell.ax81", 
+                 col_names = columnNames, na="NA", skip=0,
+                 skip_empty_rows = FALSE)
+#this worked
 head(df_AX81)
 #there are a lot of NAs, so it still throws that errror, but I'll take it, I now have a dataframe
 

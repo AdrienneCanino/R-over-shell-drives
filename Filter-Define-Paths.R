@@ -13,7 +13,9 @@ library("tidyverse")
 
 #Make Dataframe if necessary
 columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
-df_AX81 <- read_delim("Documents/new.invs/shell.ax81", '/', escape_backslash=FALSE, col_names = columnNames)
+setwd("../")
+getwd()
+df_AX81 <- read_delim("./new.invs/shell.ax81", '/', escape_backslash=FALSE, col_names = columnNames)
 #this does throw errors, about, parsing 12 columns of information where only 5 values can be pulled out of the txt file.
 #I think it's ok.
 
