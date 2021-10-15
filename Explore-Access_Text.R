@@ -1,6 +1,6 @@
 #Using R to do Shell Data curation
 #Adrienne trying to at least
-#Last updated: June 2021
+#Last updated: October 2021
 #git repo for folder with script, etc
 #data too big, stored in neighboring directory for access
 #using gitrepo https://github.com/AdrienneCanino/R-over-shell-drives.git
@@ -22,15 +22,13 @@ getwd()
   
   ax81 <- read_delim("./new.invs/shell.ax81", delim='/', 
                      escape_backslash=FALSE, col_names=columnNames,
-                     na="NULL")
+                     na="NULL", comment = "",skip_empty_rows=FALSE)
   
   #this worked to build a df of 1 col, the path
-  ax81 <- read_delim("../new.invs/shell.ax81", delim='/n', 
+  ax81 <- read_delim("./new.invs/shell.ax81", delim='/n', 
                      escape_backslash=FALSE, col_names=columnNames,
                      na="NULL")
   
-  #this also cuts off at 5 columns
-  df <- read.delim("../new.invs/shell.ax81", sep="/", header=FALSE)
   
   #Maybe read in dictating which row is the best row to use for column assumptions
   #or hard coding in the proper header for the text files, then feeding into the R code here
@@ -75,9 +73,9 @@ getwd()
   
 columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
 
-df_AX81 <- read_table("./new.invs/shell.ax81", 
-                 col_names = columnNames, na="NA", skip=0,
-                 skip_empty_rows = FALSE)
+df_AX81 <- read.delim("./new.invs/shell.ax81", sep="/",
+                 col.names = columnNames, header = FALSE, comment.char="",
+                 blank.lines.skip=FALSE, fill =TRUE)
 #this worked, 12 cols, lots of NAs so it alerts
 
 #but this is how I want it to look for now
