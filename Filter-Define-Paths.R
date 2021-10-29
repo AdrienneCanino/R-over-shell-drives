@@ -58,9 +58,11 @@ sub3_lvls
 #Can't take the whole dataframe, so let's do, subdirectory10
 #this might have to get looped somehow, like do subdirectory 4-10 with the same method
 str_which(df_AX81$subdirectory10, regex(".csv$", ignore_case=TRUE, ))
+
 #returns "integer(0)" so... there's nothing there?
 #nothing in 9 , 8, 7
 str_which(df_AX81$subdirectory6, regex(".csv$", ignore_case=TRUE, ))
+
 # 2010 2027 2044 2061 2078 2095 2112 2129 8150 8243 8251 8259 8267 8275 8283 8291
 
 str_which(df_AX81$path, regex(".csv$", ignore_case=TRUE, ))
@@ -74,21 +76,27 @@ df_AX81[2010,]
 #so that's the directory, how do I get that as a string?
 ?toString
 ?unite
-unite(df_AX81, col = "file_path", 1:12, remove = FALSE, na.rm = T, sep = "/")
+unite(df_AX81, col = "file_path", 1:12, na.rm= T, remove = FALSE, sep = "/")
 
 #this did what I wanted, let's save that output
 
+typeof(df_AX81)
 
-df_ax81 <- unite(df_AX81, col = "file_path", 1:12, remove = FALSE, na.rm = T, sep = "/")
+df_ax81 <- 
+  as_tibble(df_AX81) %>% 
+  mutate_all(as.character) %>%
+  unite(col = "file_path", 1:12, remove = FALSE, na.rm = T, sep = "/")
 
+df_ax81$file_path <- trimws(df_ax81$file_path, which="right", whitespace="/")
 #so now I have the dataframe with the subdirectories as cols and a col for the pathname as a whole string
 
 #That was kind of a sidebar, what I still want is, all the csvs, which I have those index numbers now.
 #so I should be able to output, the path col value, where those index are, right?
 rm(df_AX81)
+
 #ok first make the object holding the index values
 csvs_index81 <-str_which(df_ax81$file_path, regex(".csv$", ignore_case=TRUE))
-length(csvs_index81)
+length(csvs_index81) #16
 df_ax81$file_path[csvs_index81]
 
 df_csvs81 <- df_ax81[csvs_index81,]
@@ -175,22 +183,35 @@ levels(df_wavs81$subdirectory2)
 #well, anyway, I can get a list of these file paths, 13,334 of them. 
 
 df_wavs81$file_path
+length(df_wavs81$file_path)
+length(unique(df_wavs81$file_path))
+#intriguing, 9342 unique?
 
-#so that means I can write them out
-write_lines(df_wavs81$file_path, "Documents/R-over-shell-drives/ax81-WAV-file-paths.txt")
-write_lines(df_ax81$file_path[csvs_index81], "Documents/R-over-shell-drives/ax81-CSV-file-paths.txt")
+
+#so that means I can write them out, and I want to write out the unique ones only, so I don't duplicate file paths
+
+write_lines(unique(df_wavs81$file_path), "./ax81-WAV-file-paths.txt")
+write_lines(unique(df_ax81$file_path[csvs_index81]), "./ax81-CSV-file-paths.txt")
+
+#I guess I should really dedupe the whole dateframe
+
+df_ax81 <- df_ax81 %>% 
+  distinct()
 
 #but this doesn't answer the question of, are there sensible groupings within? I can still use some useful dplyr tools to try to answer that question
 
 #for instance, if all teh wav files show up in just 2 subdirectories, what are the next places where they show up?
 
-unique(df_wavs81$subdirectory5)
-unique(df_wavs81$subdirectory6)
+unique(df_wavs81$subdirectory5) #3
+unique(df_wavs81$subdirectory6) #194, whoa
 
 ?cur_column
 
-sum(df_wavs81$subdirectory3 == "fw")
-levels(df_wavs81$subdirectory3)
+#de-dupe
+df_wavs81 <- distinct(df_wavs81)
+
+sum(df_wavs81$subdirectory3 == "fw") #7154
+levels(df_wavs81$subdirectory3) #null
 
 #There are wav files in the trash and recycling bin?
 

@@ -73,7 +73,8 @@ getwd()
   
 columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
 
-df_AX81 <- read.delim("./new.invs/shell.ax81", sep="/",
+getwd() #assumes answer is git repo folder and new.invs is a sibling folder
+df_AX81 <- read.delim("../new.invs/shell.ax81", sep="/",
                  col.names = columnNames, header = FALSE, comment.char="",
                  blank.lines.skip=FALSE, fill =TRUE)
 #this worked, 12 cols, lots of NAs so it alerts
