@@ -7,7 +7,7 @@
 
 # Load up data wrangling environment
 #I always want tidyverse? Yea, I always want tidyverse.
-#install.packages('tidyverse')
+install.packages('tidyverse')
 library("tidyverse")
 
 #get into the data, look at the text files

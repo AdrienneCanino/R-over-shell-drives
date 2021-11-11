@@ -1,23 +1,23 @@
 ##Using R to do Shell Data curation -----
 #Adrienne trying to at least
-#Last updated: October 2021
+#Last updated: November 2021
 #git repo for folder with script, etc
 #data too big, stored in neighboring directory for access
 #using gitrepo https://github.com/AdrienneCanino/R-over-shell-drives.git
 
 #install.packages('tidyverse')
 library("tidyverse")
-
+library("stringi")
 #Make the dataframes of the drive directories/file paths csv and wav files specifically ----------------------------------------------
 
 #make a vector that builds the header for this dataframe
 columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
 
-  ##check your 20 --- Do this by hand--------------------------
+  ##check your 20 --- DO THIS BY HAND--------------------------
 getwd() #assumes answer is git repo folder and new.invs is a sibling folder
-setwd("../") #make sure you're in the repo as needed
+setwd("~/Documents/R-over-shell-drives") #make sure you're in the repo as needed
 
-#write and assign the thing by reading in the lines, carefully, this is a finicky piece of code
+#write and assign the thing by reading in the lines, carefully, this is a finicky piece of code because of the fileath
 df_AX81 <- read.delim("../new.invs/shell.ax81", sep="/",
                       col.names = columnNames, header = FALSE, comment.char="",
                       blank.lines.skip=FALSE, fill =TRUE)
@@ -35,6 +35,7 @@ df_ax81$file_path <- trimws(df_ax81$file_path, which="right", whitespace="/")
 #De-dupe the dataframe
 df_ax81 <- df_ax81 %>% 
   distinct()
+
 #use that col of file paths to find the csvs in this drive
 csvs_index81 <-str_which(df_ax81$file_path, regex(".csv$", ignore_case=TRUE))
 length(csvs_index81) #3, as expected
@@ -54,15 +55,18 @@ df_wavs81 <-df_ax81[wavs_index81,]
 write_lines(df_wavs81$file_path, "./ax81-WAV-file-paths.txt")
 write_lines(df_csvs81$file_path, "./ax81-CSV-file-paths.txt")
 
-
+#Remove anything from my environment that I don't need now
+rm(df_AX81, df_csvs81, df_wavs81,
+   csvs_index81, wavs_index81)
 #filtering, counting, and summarising the files on this drive TBD----------------------------------------------
 
 
 #Make the deployment info spreadsheets cleaner, with unfortunately complicated loops-----------------------------------------------
 #a step in bash is missing from this R code, where a remote drive was accessed and the csvs that the file_paths point to were copied to a folder in this repo
   ## loop 1 - get a list of dataframe for the csvs--------------
-#above is a loop that can do a read file to datafrom from wd, worked well as just that function
-#gotta be in the repo, gotta have those csvs from Shell's messy harddrives in a subdir 'CSV-copied'
+  ##This is a loop that can do a read file to datafrom from wd, worked well as just that function
+
+#these deployment info files, the csvs identified in the export on line 55, gotta be in the repo, gotta have those csvs from Shell's messy harddrives in a subdir 'CSV-copied'
 #wd and path can be touchy here
 files <- list.files(path="./CSV-copied", pattern ="*.csv")
 
@@ -71,9 +75,11 @@ files <- list.files(path="./CSV-copied", pattern ="*.csv")
 deploydflst <- NULL
 i <- 1
 testlst <-  NULL
+#operate the loop in the folder where the csvs exist DO THIS PART BY HAND
+setwd("./CSV-copied")
+
 #pull in the deploymentInfo csvs as ugly dataframes in order to extract their fixed information (hopefully)
 for (f in files){
-  setwd(file.path("./CSV-copied"))
   #look for number of cols
   wideness <- count.fields(f,sep=",", comment.char = "",skip=5,blank.lines.skip = FALSE)
   wideness <- max(wideness)
@@ -90,7 +96,7 @@ for (f in files){
   testlst[[i]] <- nam
   i <- i+1
 }
-#that list isn't what I want, but this is:
+#that list isn't what I want, it's just names without pointing to the object DF in R, but this is:
 deploydflst <- lapply(testlst, get)
 
 #clean up what I don't need from that loop
@@ -146,7 +152,8 @@ cleandeplydflst
 #Clean up my environmentafter that loop
 rm(freqPoints, files, hdr, i, nam, tmp, wideness, f, clientid, region, period)
 rm(thing, dat, testlst, deploydflst)
-rm(cleandeployDFslist, deployDF_1, deployDF_2, deployDF_3)
+rm(cleandeployDFslst, 
+   deployDF_1, deployDF_2, deployDF_3)
 
 ##Write out anything useful from these loops, like the clean deploymentInfo spreadhseet
 write_csv(cleandeployDF_1, file="ax_81_deploy1.csv")
