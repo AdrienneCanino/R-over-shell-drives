@@ -226,7 +226,46 @@ str_which(df_wavs81[,1], regex(pattern=recorderID, ignore_case = TRUE))
 ?regex
 #the trick so far is definitely trying to get the regex to register I want there to be 2 patterns matched
 
+##So, making that happen -----------------------
 
-###Again, make it happen
+#Ok so I only care about de-duped, wav file, paths. Sorry to the other valuable information stored in these things.
+wavs_index81 <- str_which(df_ax81$file_path, regex(".wav$", ignore_case=TRUE, ))
+df_ax81 <-  df_ax81[wavs_index81,]
 
+#find locations where the clientid matches a value in the folder path
+## first, find the unique values in my deployment info dataframes, for clientid
+pattrns <- NULL
+#Get the unique values of col 2 into a list, based on if they are alraedy in the list
+for (thing in cleandeplydflst){
+  
+  val <- unique(thing[,2]) #get unique value out of second column
+  
+  if (length(pattrns) > 0){ #check if pattrns has values
+    if (val %in% pattrns){
+      #do nothing
+      }else{ #if the pattrns list doesn't have this value ablready
+    pattrns <-  append(pattrns, val) #add to list
+    }
+  }else { #else add to list
+      pattrns <-append(pattrns, val) #else add to list
+    }
+  }
+
+client_match <-  str_subset(df_ax81$file_path, regex(pattrns, ignore_case=TRUE))
+head(client_match)
+
+#Was it really that simple?
+
+#let's do a filter etc, just to make sure, I don't have, like some crazy error in there
+client_match_index <-  str_which(df_ax81$file_path, regex(pattrns, ignore_case=TRUE))
+
+df_ax81[client_match_index,] %>%
+  group_by(subdirectory3) %>%
+  summarise(n=n()) %>%
+  view()
+#fw, shell, and SHell Shallow Hazards 2013 - but, that's a client as shell, yeah?
+# so, success?
+
+#I think what I really want to match on is the unique recorder id, is that in the file, path?
+#First, how does, client id match, compare to recorder id match
 
