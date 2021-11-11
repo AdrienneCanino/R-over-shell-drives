@@ -226,7 +226,7 @@ str_which(df_wavs81[,1], regex(pattern=recorderID, ignore_case = TRUE))
 ?regex
 #the trick so far is definitely trying to get the regex to register I want there to be 2 patterns matched
 
-##So, making that happen -----------------------
+##So, making that happen, based on client id -----------------------
 
 #Ok so I only care about de-duped, wav file, paths. Sorry to the other valuable information stored in these things.
 wavs_index81 <- str_which(df_ax81$file_path, regex(".wav$", ignore_case=TRUE, ))
@@ -269,3 +269,36 @@ df_ax81[client_match_index,] %>%
 #I think what I really want to match on is the unique recorder id, is that in the file, path?
 #First, how does, client id match, compare to recorder id match
 
+##Ok, so making that happen, based on, recorder id -------------------
+#use the loop to get unique values from the column in the deployment dataframes
+pattrns <- NULL
+#Get the unique values of col 2 into a list, based on if they are alraedy in the list
+for (thing in cleandeplydflst){
+  
+  val <- unique(thing[,5]) #get unique value out of 5thh  column
+  
+  if (length(pattrns) > 0){ #check if pattrns has values
+    if (val %in% pattrns){
+      #do nothing
+    }else{ #if the pattrns list doesn't have this value ablready
+      pattrns <-  append(pattrns, val) #add to list
+    }
+  }else { #else add to list
+    pattrns <-append(pattrns, val) #else add to list
+  }
+}
+length(unique(pattrns))
+#I think it's working even though it gave me those warnings?
+length(unique(cleandeployDF_1[,5])) #7
+length(unique(cleandeployDF_2[,5])) #8
+length(unique(cleandeployDF_3[,5])) #24
+#total of 39, checks out
+
+#so will this be as easy as, last time?
+recorderid_match <-  str_subset(df_ax81$file_path, regex(pattrns, ignore_case=TRUE)) 
+#184 matches.... out of a dataframe 9342 items long?
+#there were only 184 matches on client, too....
+head(recorderid_match)
+
+
+str_match(df_ax81$file_path, pattrns)
