@@ -272,7 +272,7 @@ df_ax81[client_match_index,] %>%
 ##Ok, so making that happen, based on, recorder id -------------------
 #use the loop to get unique values from the column in the deployment dataframes
 pattrns <- NULL
-#Get the unique values of col 2 into a list, based on if they are alraedy in the list
+#Get the unique values of col 5 into a list, based on if they are alraedy in the list
 for (thing in cleandeplydflst){
   
   val <- unique(thing[,5]) #get unique value out of 5thh  column
@@ -295,10 +295,45 @@ length(unique(cleandeployDF_3[,5])) #24
 #total of 39, checks out
 
 #so will this be as easy as, last time?
-recorderid_match <-  str_subset(df_ax81$file_path, regex(pattrns, ignore_case=TRUE)) 
+recorderid_match <- str_subset(df_ax81$file_path, regex(pattrns, ignore_case=TRUE)) 
 #184 matches.... out of a dataframe 9342 items long?
-#there were only 184 matches on client, too....
-head(recorderid_match)
+str_which(df_ax81, regex(pattrns[1]))
+sum(str_detect(df_ax81$file_path, regex(pattrns[1]))) #there's no match to the recorder id "AMAR202.1.16000.M8EV35dB"?
+#I don't know how to fact check that
+sum(str_detect(df_ax81$file_path, regex(pattrns[6]))) #0?
+sum(str_detect(df_ax81$file_path, regex(pattrns[22]))) #0, this is not working
+#checking for pattern across all over
 
+sapply(pattrns, str_locate, x=df_ax81)
+str_which(df_ax81, pattrns[1])
 
-str_match(df_ax81$file_path, pattrns)
+which(df_ax81 == pattrns[1], arr.ind = TRUE)
+#seriosuly no where?
+#looking at the the folder names again
+
+df_ax81 %>%
+  group_by(subdirectory3, subdirectory4, subdirectory5, subdirectory6) %>%
+  summarise(n=n()) %>% 
+  view()
+
+df_ax81 %>% 
+  count(subdirectory3, subdirectory4, subdirectory5, subdirectory6, subdirectory7, subdirectory8, sort = TRUE) %>% 
+  view()
+
+#Let's try this with stationid ----------------
+pattrns <- NULL
+#Get the unique values of col 8 into a list, based on if they are already in the list
+for (thing in cleandeplydflst){
+  
+  val <-unique(thing[,8]) #get unique value out of 5thh  column
+  pattrns <-  append(pattrns, val) #add to list
+  pattrns <-  unique(pattrns)
+
+}
+length(unique(pattrns))
+#28 now, 37 objects long
+#I think it's working even though it gave me those warnings?
+length(unique(cleandeployDF_1[,8])) #7
+length(unique(cleandeployDF_2[,8])) #8
+length(unique(cleandeployDF_3[,8])) #22
+#total of 37 but, of unique, between all three? so I ac
