@@ -336,4 +336,20 @@ length(unique(pattrns))
 length(unique(cleandeployDF_1[,8])) #7
 length(unique(cleandeployDF_2[,8])) #8
 length(unique(cleandeployDF_3[,8])) #22
-#total of 37 but, of unique, between all three? so I ac
+#total of 37 but, of unique, between all three? so I accept 22.
+stationIDS_list <- pattrns
+
+#now I need, unique period from deployment info
+pattrns <-  NULL
+for (thing in cleandeplydflst){
+  
+  val <-unique(thing[,4]) #get unique value out of 5thh  column
+  pattrns <-  append(pattrns, val) #add to list
+  #pattrns <-  unique(pattrns)
+}
+
+#Can I find those values in the file paths anywhere?
+pattrns[1]
+
+a <- str_which(df_ax81$file_path, pattrns[1])
+df_ax81[a,]
