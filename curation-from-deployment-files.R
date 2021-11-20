@@ -13,6 +13,7 @@ install.packages('tidyverse')
 library("tidyverse")
 #cleaning strings is now a thing
 library("stringi")
+
 # # create a dataframe of deployments on drives, modelled on the deploymentInfo.csv from ax70.
 ## test clean deployment dfs ------------------------
     #This works
@@ -249,20 +250,23 @@ for (thing in cleandeplydflst){
   }else { #else add to list
       pattrns <-append(pattrns, val) #else add to list
     }
-  }
+}
 
+#did that work?
+pattrns #fw, shell , so yes
 client_match <-  str_subset(df_ax81$file_path, regex(pattrns, ignore_case=TRUE))
 head(client_match)
 
 #Was it really that simple?
 
-#let's do a filter etc, just to make sure, I don't have, like some crazy error in there
+#let's do a filter on subdirectory 3, etc, just to make sure, I don't have, like some crazy error in there
 client_match_index <-  str_which(df_ax81$file_path, regex(pattrns, ignore_case=TRUE))
 
 df_ax81[client_match_index,] %>%
   group_by(subdirectory3) %>%
   summarise(n=n()) %>%
   view()
+
 #fw, shell, and SHell Shallow Hazards 2013 - but, that's a client as shell, yeah?
 # so, success?
 
@@ -288,7 +292,7 @@ for (thing in cleandeplydflst){
   }
 }
 length(unique(pattrns))
-#I think it's working even though it gave me those warnings?
+#I think it's working even though it gave me those warnings about matching only the first element....?
 length(unique(cleandeployDF_1[,5])) #7
 length(unique(cleandeployDF_2[,5])) #8
 length(unique(cleandeployDF_3[,5])) #24
@@ -296,12 +300,18 @@ length(unique(cleandeployDF_3[,5])) #24
 
 #so will this be as easy as, last time?
 recorderid_match <- str_subset(df_ax81$file_path, regex(pattrns, ignore_case=TRUE)) 
+
 #184 matches.... out of a dataframe 9342 items long?
 str_which(df_ax81, regex(pattrns[1]))
 sum(str_detect(df_ax81$file_path, regex(pattrns[1]))) #there's no match to the recorder id "AMAR202.1.16000.M8EV35dB"?
 #I don't know how to fact check that
 sum(str_detect(df_ax81$file_path, regex(pattrns[6]))) #0?
 sum(str_detect(df_ax81$file_path, regex(pattrns[22]))) #0, this is not working
+
+#looking at recorderid_match
+
+recorderid_match
+
 #checking for pattern across all over
 
 sapply(pattrns, str_locate, x=df_ax81)
@@ -317,7 +327,7 @@ df_ax81 %>%
   view()
 
 df_ax81 %>% 
-  count(subdirectory3, subdirectory4, subdirectory5, subdirectory6, subdirectory7, subdirectory8, sort = TRUE) %>% 
+  count(subdirectory3, subdirectory4, subdirectory5, subdirectory6, sort = TRUE) %>% 
   view()
 
 #Let's try this with stationid ----------------
@@ -349,8 +359,14 @@ for (thing in cleandeplydflst){
 }
 
 #Can I find those values in the file paths anywhere?
-pattrns[1]
+pattrns[1] #2013-oerwinter season
 
-a <- str_which(df_ax81$file_path, pattrns[1])
-df_ax81[a,]
+a <- str_which(df_ax81$file_path, pattrns[1]) #find those file paths
+df_ax81[a,] #subset the filepaths dataframe on only 2013-overwinter season matches
+
+df_ax81[a,] %>%
+  count(subdirectory3, subdirectory4, subdirectory5, subdirectory6, subdirectory7,subdirectory8, sort = TRUE) %>% 
+  view()
+#apparently, I only get them from, CL05?
+#so this would need to be searched over many frames as well
 

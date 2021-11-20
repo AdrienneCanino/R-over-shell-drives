@@ -156,7 +156,7 @@ rm(cleandeployDFslst,
    deployDF_1, deployDF_2, deployDF_3)
 
 ##Write out anything useful from these loops, like the clean deploymentInfo spreadhseet
-write_csv(cleandeployDF_1, file="ax_81_deploy1.csv")
-write_csv(cleandeployDF_2, file="ax_81_deploy2.csv")
-write_csv(cleandeployDF_3, file="ax_81_deploy3.csv")
+write_csv(cleandeployDF_1, file="../ax_81_deploy1.csv")
+write_csv(cleandeployDF_2, file="../ax_81_deploy2.csv")
+write_csv(cleandeployDF_3, file="../ax_81_deploy3.csv")
 
