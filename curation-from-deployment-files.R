@@ -314,8 +314,6 @@ recorderid_match
 
 #checking for pattern across all over
 
-sapply(pattrns, str_locate, x=df_ax81)
-str_which(df_ax81, pattrns[1])
 
 which(df_ax81 == pattrns[1], arr.ind = TRUE)
 #seriosuly no where?
@@ -369,4 +367,37 @@ df_ax81[a,] %>%
   view()
 #apparently, I only get them from, CL05?
 #so this would need to be searched over many frames as well
+
+seasons_match <-  pattrns
+
+#can I find, partial matches, easily?
+df_ax81$file_path %>% 
+  str_detect("2013") %>% 
+  sum()
+#7346, which, actually checks out against, an earlier number. right?
+
+df_ax81$file_path %>% 
+  str_detect("2014") %>% 
+  sum()
+#3317
+df_ax81$file_path %>% 
+  str_detect("2009") %>% 
+  sum()
+#1996
+
+#total of 12659
+# a number more than the unique wav files we have, but less than total de-deuped files we have
+
+#Can I get partial matches against my season list, and my stations list, at the same time?
+
+pmatch(seasons_match[1], table=df_ax81, duplicates.ok=FALSE)
+#this doesn't seem like it's going to work the way I want
+
+charmatch(seasons_match[1], df_ax81$file_path, nomatch=0)
+x <-  append(x, "yes")
+charmatch("yes", x, nomatch=0)
+charmatch(x, "yes", nomatch=0)
+
+#These make no sense, I need other functions
+
 
