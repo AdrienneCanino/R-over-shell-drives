@@ -398,6 +398,39 @@ x <-  append(x, "yes")
 charmatch("yes", x, nomatch=0)
 charmatch(x, "yes", nomatch=0)
 
-#These make no sense, I need other functions
+#These make no sense, I need other functions for partial matches
 
+#Back to, finding the matches, we have, client match index, let's make, station match index?
 
+station_match_index <-  str_which(df_ax81$file_path, regex(stationIDS_list, ignore_case=TRUE))
+
+df_ax81[station_match_index]
+#not right? oh, need to call as, subset on cols/rows (add a comma)
+
+df_ax81[station_match_index,] %>% 
+  group_by(subdirectory3, subdirectory5) %>% 
+  view()
+#total of 327
+#which is how many station match id numbers were returned
+#But, wrong, this is not effective, because I know I have, 7105 from CL05
+
+stationIDS_list
+
+x <- c("CL05", "B05", "CL5", "B5", "PL5", "PL50", "PL05")
+
+agrep(stationIDS_list, x)
+
+#NO wait, the problem is that I need to loop through ALL of the stationIDS and match in df_ax81$file_path, because, it's using the first only? Because I know I need 9000 ish matches to WN40 and CL5
+station_match_index <- NULL
+for(thing in stationIDS_list){
+  val <- str_which(df_ax81$file_path, regex(thing, ignore_case = T))
+  station_match_index <- append(station_match_index, val)
+}
+#that gave me 9150 index numbers that match a stationID I have, which is good? But it's basically the whole dataframe, how much good is that doing me?
+
+df_ax81[station_match_index,] %>% 
+  group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% 
+  count() %>% 
+  view()
+
+#now I need to join somehow
