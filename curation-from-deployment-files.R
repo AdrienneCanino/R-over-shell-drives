@@ -433,4 +433,19 @@ df_ax81[station_match_index,] %>%
   count() %>% 
   view()
 
-#now I need to join somehow
+#I guess I should make these a df, even though, they're, not, all the wav files?
+sm_df <- df_ax81[station_match_index,]
+#what are those, 100 something differences?
+view(df_ax81[-station_match_index,])
+#Shell Shallow Hazards are not pulling up with station ids in the file paths anywhere. Hrm. Well good to know but I'm going to press on.
+
+
+#now I need to join somehow, deployment df, with this df
+#firstly, it's good to know, seasons are matched in the Subdirectory 5
+sm_df %>% 
+  group_by(subdirectory3, subdirectory5) %>% 
+  count() %>% 
+  view()
+
+#this is manual, but I know that cleandeployDF_2 is 2009, and cleandeployDF_1 is 2013, which are my two seasons for these wave files
+#I'
