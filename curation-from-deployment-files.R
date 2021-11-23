@@ -391,9 +391,12 @@ df_ax81$file_path %>%
 #Can I get partial matches against my season list, and my stations list, at the same time?
 
 pmatch(seasons_match[1], table=df_ax81, duplicates.ok=FALSE)
+
 #this doesn't seem like it's going to work the way I want
 
 charmatch(seasons_match[1], df_ax81$file_path, nomatch=0)
+
+#I need to know more about how these functions are suppose to work
 x <-  append(x, "yes")
 charmatch("yes", x, nomatch=0)
 charmatch(x, "yes", nomatch=0)
