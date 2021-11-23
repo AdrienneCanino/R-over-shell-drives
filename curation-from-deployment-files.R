@@ -303,9 +303,9 @@ recorderid_match <- str_subset(df_ax81$file_path, regex(pattrns, ignore_case=TRU
 
 #184 matches.... out of a dataframe 9342 items long?
 str_which(df_ax81, regex(pattrns[1]))
-sum(str_detect(df_ax81$file_path, regex(pattrns[1]))) #there's no match to the recorder id "AMAR202.1.16000.M8EV35dB"?
+sum(str_detect(df_ax81$file_path, regex(pattrns[1]))) #there's no match to the recorder id "AMAR202.1.16000.M8EV35dB"? 1?
 #I don't know how to fact check that
-sum(str_detect(df_ax81$file_path, regex(pattrns[6]))) #0?
+sum(str_detect(df_ax81$file_path, regex(pattrns[6]))) #0? 1?
 sum(str_detect(df_ax81$file_path, regex(pattrns[22]))) #0, this is not working
 
 #looking at recorderid_match
@@ -327,6 +327,7 @@ df_ax81 %>%
 df_ax81 %>% 
   count(subdirectory3, subdirectory4, subdirectory5, subdirectory6, sort = TRUE) %>% 
   view()
+#INTERESTING HOW THESE CAME UP DIFFERENT WHEN i HAVEN'T SUBSET THE DF FOR WAV FILES...
 
 #Let's try this with stationid ----------------
 pattrns <- NULL
@@ -357,15 +358,15 @@ for (thing in cleandeplydflst){
 }
 
 #Can I find those values in the file paths anywhere?
-pattrns[1] #2013-oerwinter season
+pattrns[1] #2013-overwinter season
 
 a <- str_which(df_ax81$file_path, pattrns[1]) #find those file paths
 df_ax81[a,] #subset the filepaths dataframe on only 2013-overwinter season matches
 
 df_ax81[a,] %>%
   count(subdirectory3, subdirectory4, subdirectory5, subdirectory6, subdirectory7,subdirectory8, sort = TRUE) %>% 
-  view()
-#apparently, I only get them from, CL05?
+  write_delim(".././overwinter-2013-matching.csv", delim=",", na="NA")
+#apparently, I only get them from, CL05? But there are other folders, with related information in the 2013-overwinter season folder, that we can find
 #so this would need to be searched over many frames as well
 
 seasons_match <-  pattrns
