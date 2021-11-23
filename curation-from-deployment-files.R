@@ -348,7 +348,7 @@ length(unique(cleandeployDF_3[,8])) #22
 #total of 37 but, of unique, between all three? so I accept 22.
 stationIDS_list <- pattrns
 
-#now I need, unique period from deployment info
+#now I need, unique period from deployment info --------------------
 pattrns <-  NULL
 for (thing in cleandeplydflst){
   
@@ -357,7 +357,7 @@ for (thing in cleandeplydflst){
   #pattrns <-  unique(pattrns)
 }
 
-#Can I find those values in the file paths anywhere?
+#Now, Can I find those values in the file paths anywhere? ---------------------------------
 pattrns[1] #2013-overwinter season
 
 a <- str_which(df_ax81$file_path, pattrns[1]) #find those file paths
@@ -404,7 +404,7 @@ charmatch(x, "yes", nomatch=0)
 
 #These make no sense, I need other functions for partial matches
 
-#Back to, finding the matches, we have, client match index, let's make, station match index?
+#Back to, finding the matches, we have, client match index, let's make, station match index? -------------
 
 station_match_index <-  str_which(df_ax81$file_path, regex(stationIDS_list, ignore_case=TRUE))
 
@@ -422,6 +422,7 @@ stationIDS_list
 
 x <- c("CL05", "B05", "CL5", "B5", "PL5", "PL50", "PL05")
 
+#agrep can do approximate matching
 agrep(stationIDS_list, x)
 
 #NO wait, the problem is that I need to loop through ALL of the stationIDS and match in df_ax81$file_path, because, it's using the first only? Because I know I need 9000 ish matches to WN40 and CL5
@@ -430,15 +431,17 @@ for(thing in stationIDS_list){
   val <- str_which(df_ax81$file_path, regex(thing, ignore_case = T))
   station_match_index <- append(station_match_index, val)
 }
-#that gave me 9150 index numbers that match a stationID I have, which is good? But it's basically the whole dataframe, how much good is that doing me?
+#that gave me 9150 index numbers that match a stationID I have, which is good? *But it's basically the whole dataframe, how much good is that doing me?
 
 df_ax81[station_match_index,] %>% 
   group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% 
   count() %>% 
   view()
 
+#so that view, shows me, anywhere in the folder structure of this drive, where there's a match for a stationID in the deployments I know about (3), so I can find folders named for the stations of the deployments where hopefully there are the right files stored. Yes?
 #I guess I should make these a df, even though, they're, not, all the wav files?
 sm_df <- df_ax81[station_match_index,]
+
 #what are those, 100 something differences?
 view(df_ax81[-station_match_index,])
 #Shell Shallow Hazards are not pulling up with station ids in the file paths anywhere. Hrm. Well good to know but I'm going to press on.
