@@ -352,7 +352,7 @@ stationIDS_list <- pattrns
 pattrns <-  NULL
 for (thing in cleandeplydflst){
   
-  val <-unique(thing[,4]) #get unique value out of 5thh  column
+  val <-unique(thing[,4]) #get unique value out of 4thh  column
   pattrns <-  append(pattrns, val) #add to list
   #pattrns <-  unique(pattrns)
 }
@@ -440,7 +440,7 @@ df_ax81[station_match_index,] %>%
 
 #so that view, shows me, anywhere in the folder structure of this drive, where there's a match for a stationID in the deployments I know about (3), so I can find folders named for the stations of the deployments where hopefully there are the right files stored. Yes?------------------------
 #But i need to keep them with the folders named for the period. But I know one i smore parent to the other, so I could do period first then station.
-#More loops
+#More loops eventuallyy
 
 #I guess I should make these a df, even though, they're, not, all the wav files?
 sm_df <- df_ax81[station_match_index,]

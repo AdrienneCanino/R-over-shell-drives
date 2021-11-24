@@ -155,8 +155,63 @@ rm(thing, dat, testlst, deploydflst)
 rm(cleandeployDFslst, 
    deployDF_1, deployDF_2, deployDF_3)
 
-##Write out anything useful from these loops, like the clean deploymentInfo spreadhseet
+##Write out anything useful from these loops, like the clean deploymentInfo spreadhseet-----------------
 write_csv(cleandeployDF_1, file="../ax_81_deploy1.csv")
 write_csv(cleandeployDF_2, file="../ax_81_deploy2.csv")
 write_csv(cleandeployDF_3, file="../ax_81_deploy3.csv")
 
+
+## fine the deployment periods for each clean deployment dataframe ------------------------
+pattrns <-  NULL
+for (thing in cleandeplydflst){
+  
+  val <-unique(thing[,4]) #get unique value out of 4thh  column, period
+  pattrns <-  append(pattrns, val) #add to list
+  #pattrns <-  unique(pattrns)
+}
+## Check assumption - each deployment file is for one deployment period only?
+
+#find those file paths
+pattrns[1] 
+a <- str_which(df_ax81$file_path, pattrns[1]) 
+df_ax81[a,]
+seasons_match <-  pattrns
+
+# find the season for first clean deployment df
+period <- seasons_match[1]
+
+#Subset the dataframe to it
+temp_index <- str_which(df_ax81$file_path, regex(period))
+
+#what does that look like
+slice(df_ax81, temp_index)
+
+df_ax81 %>% 
+  slice(temp_index) %>% 
+  group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% count() %>% 
+  view()
+
+#now, looking for only wav files in this instance
+wavs_index81 <- str_which(df_ax81$file_path, regex(".wav$", ignore_case=TRUE))
+
+length(wavs_index81)
+
+#what does it look like, only wav files, in only this period
+df_ax81 %>% 
+  slice(wavs_index81) %>% 
+  slice(temp_index) %>% 
+  group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% count() %>% 
+  view()
+
+#might need to check this
+getwd()
+
+# write the file path locations out with the information for the deployment file in the file name I guess? shudder
+df_ax81 %>% 
+  slice(wavs_index81) %>% 
+  slice(temp_index) %>% 
+  as.data.frame() -> t
+
+write_lines(t$file_path, file="../df_ax81_cleandeployDF1_related-wav-file-paths.txt", sep="\n", append=FALSE)
+
+## Repeating that process for the other clean deployment dfs from the drive ---------------------
