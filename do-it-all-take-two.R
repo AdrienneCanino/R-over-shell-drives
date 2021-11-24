@@ -175,7 +175,7 @@ for (thing in cleandeplydflst){
   pattrns <-  append(pattrns, val) #add to list
   #pattrns <-  unique(pattrns)
 }
-## Check assumption - each deployment file is for one deployment period only?
+## Check assumption - each deployment file is for one deployment period only? #not for ax72
 
 #find those file paths
 pattrns[1] 
@@ -209,7 +209,7 @@ df %>%
   group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% count() %>% 
   view()
 
-#might need to check this
+#might need to check/set this
 getwd()
 
 # write the file path locations out with the information for the deployment file in the file name I guess? shudder
@@ -218,6 +218,7 @@ df %>%
   slice(temp_index) %>% 
   as.data.frame() -> t
 
-write_lines(t$file_path, file="../df_cleandeployDF1_related-wav-file-paths.txt", sep="\n", append=FALSE)
+write_lines(t$file_path, file="./dfax72_cleandeployDF1_related-wav-file-paths.txt", sep="\n", append=FALSE)
 
 ## Repeating that process for the other clean deployment dfs from the drive ---------------------
+### In the case of drive 72, it will not be any use, because the period pulled from the deployment INFO is the same for both deployment iNFOS so when I did this process I found everything already.
