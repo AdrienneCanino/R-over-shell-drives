@@ -434,11 +434,14 @@ for(thing in stationIDS_list){
 #that gave me 9150 index numbers that match a stationID I have, which is good? *But it's basically the whole dataframe, how much good is that doing me?
 
 df_ax81[station_match_index,] %>% 
-  group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% 
+  group_by(subdirectory3, subdirectory5, subdirectory6) %>% 
   count() %>% 
   view()
 
-#so that view, shows me, anywhere in the folder structure of this drive, where there's a match for a stationID in the deployments I know about (3), so I can find folders named for the stations of the deployments where hopefully there are the right files stored. Yes?
+#so that view, shows me, anywhere in the folder structure of this drive, where there's a match for a stationID in the deployments I know about (3), so I can find folders named for the stations of the deployments where hopefully there are the right files stored. Yes?------------------------
+#But i need to keep them with the folders named for the period. But I know one i smore parent to the other, so I could do period first then station.
+#More loops
+
 #I guess I should make these a df, even though, they're, not, all the wav files?
 sm_df <- df_ax81[station_match_index,]
 
@@ -447,7 +450,7 @@ view(df_ax81[-station_match_index,])
 #Shell Shallow Hazards are not pulling up with station ids in the file paths anywhere. Hrm. Well good to know but I'm going to press on.
 
 
-#now I need to join somehow, deployment df, with this df
+#now I need to join dataframes, by period, then station.------------------------------
 #firstly, it's good to know, seasons are matched in the Subdirectory 5
 sm_df %>% 
   group_by(subdirectory3, subdirectory5) %>% 
@@ -455,4 +458,112 @@ sm_df %>%
   view()
 
 #this is manual, but I know that cleandeployDF_2 is 2009, and cleandeployDF_1 is 2013, which are my two seasons for these wave files
-#I'
+#but it doesn't have to be manual, right, I know that I looped through the lists in order, so I know the first value in the station list or season list is the first unique value in cleandeploy_1, because, loops
+#let's try this first, as a minimally curated data set.
+
+# find the season for clean deployment df 1
+period <- seasons_match[1]
+
+#find the file paths that include this pattern, as a whole
+
+str_which(df_ax81$file_path, regex(period)) 
+
+temp_index <- str_which(df_ax81$file_path, regex(period))
+
+slice(df_ax81, temp_index)
+#7183 rows, 7183 locations where overwinter-2013 happens
+
+df_ax81 %>% 
+  slice(temp_index) %>% 
+  group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% count() %>% 
+  view()
+
+#now if I subset that further for only wav files
+wavs_index81 <- str_which(df_ax81$file_path, regex(".wav$", ignore_case=TRUE))
+
+length(wavs_index81)
+#so 9342 wav files
+
+df_ax81 %>% 
+  slice(wavs_index81) %>% 
+  slice(temp_index) %>% 
+  group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% count() %>% 
+  view()
+#6777 CL05 wav files, is all we can get from this period this drive?
+#Still all in CL05?
+#I guess that makes sense? 
+#let's press on
+getwd()
+
+# write the file path locations out with the information for the deployment file in the file name I guess? shudder
+df_ax81 %>% 
+  slice(wavs_index81) %>% 
+  slice(temp_index) %>% 
+  as.data.frame() -> t
+  
+  
+  
+write_lines(t$file_path, file="../df_ax81_cleandeployDF1_related-wav-file-paths.txt", sep="\n", append=FALSE)
+
+## Repeating that process for cleandeploy_DF2 wav files ---------------------
+# find the season for clean deployment df 2
+period <- seasons_match[2]
+
+#make temporary index subsetting object off it
+temp_index <- str_which(df_ax81$file_path, regex(period))
+
+#look at it real quick, subsetting for wav
+df_ax81 %>% 
+  slice(wavs_index81) %>% 
+  slice(temp_index) %>% 
+  group_by(subdirectory3, subdirectory5, subdirectory6, subdirectory7) %>% count() %>% 
+  view()
+#1664 files
+
+# write the file path locations out with the information for the deployment file  in the file name I guess? shudder
+df_ax81 %>% 
+  slice(wavs_index81) %>% 
+  slice(temp_index) %>% 
+  as.data.frame() -> t
+
+
+
+write_lines(t$file_path, file="../df_ax81_cleandeployDF2_related-wav-file-paths.txt", sep="\n", append=FALSE)
+
+## ON a role, repeat that basic curation with cleandeploy_DF3
+# find the season for clean deployment df 2
+period <- seasons_match[3]
+
+#make temporary index subsetting object off it
+temp_index <- str_which(df_ax81$file_path, regex(period))
+
+#look at it real quick, subsetting for wav
+df_ax81 %>% 
+  slice(wavs_index81) %>% 
+  slice(temp_index) %>% 
+  group_by(subdirectory3, subdirectory4, subdirectory5, subdirectory6, subdirectory7) %>% count() %>% 
+  view()
+#it's only finding, 2013-overwinter types things? are there no 2014-summer matches at all?
+df_ax81 %>% 
+  group_by(subdirectory5) %>% count() %>% 
+  view()
+
+#I should find 16 matches for 2014-summer period
+
+df_ax81 %>% 
+  slice(temp_index) %>% 
+  group_by(subdirectory3, subdirectory4, subdirectory5) %>% count %>% 
+  view()
+#are they not wav files?
+df_ax81 %>% 
+  slice(temp_index) %>% 
+  view()
+#they are not wav files, but I suppose, they're useful ish stuff?
+# let's get those paths out anyway
+df_ax81 %>% 
+  slice(temp_index) %>% 
+  as.data.frame() -> t
+
+
+
+write_lines(t$file_path, file="../df_ax81_cleandeployDF3_any-related-file-paths.txt", sep="\n", append=FALSE)

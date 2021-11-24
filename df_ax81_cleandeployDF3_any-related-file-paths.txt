@@ -1,0 +1,16 @@
+mnt/shell/ax81/fw/chukchi/2014-summer
+mnt/shell/ax81/fw/chukchi/2014-summer/deploymentInfo.csv
+mnt/shell/ax81/fw/chukchi/2014-summer/B5
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.22.1.AMAR-BATV-Voltage.png
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.23.1.AMAR-BATV-Voltage.png
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/parse-summary.txt
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.20.1.HIH4031-RH.png
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.25.1.ISL12020-Temperature.png
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.21.1.AMAR-BATI-Current.png
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.21.1.AMAR-BATI
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.23.1.AMAR-BATV
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.9.375000.M8E-35dB
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.25.1.ISL12020
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.20.1.HIH4031
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.1.16000.M8E-35dB
+mnt/shell/ax81/fw/chukchi/2014-summer/B5/AMAR002.22.1.AMAR-BATV
