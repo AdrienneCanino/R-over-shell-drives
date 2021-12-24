@@ -34,59 +34,60 @@ while(i<=30){
   testlst[[i]] <- nam
   i <- i+1
 }
-
+fyl_lst <- lapply(testlst, get)
 
 
 ##check your 20 --- DO THIS BY HAND--------------------------
 getwd() #assumes answer is git repo folder and new.invs is a sibling folder
 setwd("~/Documents/R-over-shell-drives") #make sure you're in the repo as needed
 
-#write and assign the thing by reading in the lines, carefully, this is a finicky piece of code-------------------------
-df_ax72 <- read.delim("../new.invs/shell.72", sep="/",
-                      col.names = columnNames, header = FALSE, comment.char="",
-                      blank.lines.skip=FALSE, fill =TRUE)
-
-
-#make a column in a dataframe that has the filepath included
-df <- 
-  as_tibble(df_ax72) %>% 
-  mutate_all(as.character) %>%
-  unite(col = "file_path", 1:12, remove = FALSE, na.rm = T, sep = "/")
-
-#trim the ends where NAs somehow, perpetuated?
-df$file_path <- trimws(df$file_path, which="right", whitespace="/")
-
-#De-dupe the dataframe
-df <- df %>% 
-  distinct()
-
-#use that col of file paths to find the csvs in this drive
-csvs_index <-str_which(df$file_path, regex(".csv$", ignore_case=TRUE))
-length(csvs_index) #2, as expected
-
-df_csvs <- df[csvs_index,]
-
-#same, find the wavs in this drive
-wavs_index <- str_which(df$file_path, regex(".wav$", ignore_case=TRUE, ))
-
-length(wavs_index)
-#so 23414 wav files
-
-df_wavs <-df[wavs_index,]
-
-
-#Write out any useful dataframe files, like csv and wav filepaths---------------------
-write_lines(df_wavs$file_path, file=paste(todays_drive, "wave-file-paths.txt", sep="_"))
-write_lines(df_csvs$file_path, file=paste(todays_drive, "csv-file-paths.txt", sep="_"))
-
-#Remove anything from my environment that I don't need now
-rm(df_csvs, df_wavs,
-   csvs_index, wavs_index)
-#filtering, counting, and summarising the files on this drive 
-
-#Make the deployment info spreadsheets cleaner, with unfortunately complicated loops-----------------------------------------------
-
+#get a single dataframe out to find the things I need ------------------------------------
+  
+for(thing in fyl_lst){
+  
+  #make a column in a dataframe that has the filepath included
+  df <- 
+    as_tibble(thing) %>% 
+    mutate_all(as.character) %>%
+    unite(col = "file_path", 1:12, remove = FALSE, na.rm = T, sep = "/")
+  
+  #trim the ends where NAs somehow, perpetuated?
+  df$file_path <- trimws(df$file_path, which="right", whitespace="/")
+  print(head(df))
+  #De-dupe the dataframe
+  df <- df %>% 
+    distinct()
+  
+  #use that col of file paths to find the csvs in this drive
+  csvs_index <-str_which(df$file_path, regex(".csv$", ignore_case=TRUE))
+  cat("csvs:",length(csvs_index))
+  if(length(csvs_index>0)){
+  
+    df_csvs <- df[csvs_index,]
+    write_lines(df_csvs$file_path, file=paste(thing, "csv-file-paths.txt", sep="_"))
+  }
+  #same, find the wavs in this drive
+  wavs_index <- str_which(df$file_path, regex(".wav$", ignore_case=TRUE, ))
+  
+  cat(c("wavs:",length(wavs_index)))
+  #so 23414 wav files
+  
+  df_wavs <-df[wavs_index,]
+  
+  
+  #Write out any useful dataframe files, like csv and wav filepaths---------------------
+  write_lines(df_wavs$file_path, file=paste(thing, "wave-file-paths.txt", sep="_"))
+  
+  
+  #Remove anything from my environment that I don't need now
+  rm(df_csvs, df_wavs,
+     csvs_index, wavs_index)
+  #filtering, counting, and summarising the files on this drive 
+}
 #a step in bash is missing from this R code, where a remote drive was accessed and the csvs that the file_paths point to were copied to a folder in this repo
+
+#Make the deployment info spreadsheets cleaner, with unfortunately complicated loops-----------------------------------------
+
 
 ## loop 1 - get a list of dataframe for the csvs--------------
 ##This is a loop that can do a read file to data from from wd, worked well as just that function
