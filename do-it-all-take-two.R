@@ -11,19 +11,38 @@
 library("tidyverse")
 library("stringi")
 #Make the dataframes of the drive directories/file paths csv and wav files specifically ----------------------------------------------
-#store the drive you're aiming at, just in case
-
-todays_drive <- "shell.ax72"
 
 #make a vector that builds the header for this dataframe
 columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
+
+#store the drive you're aiming at, just in case
+dr_list <- read_lines("../../Downloads/dr_list.txt")
+dr_list <- dr_list[-1]
+i=1
+testlst <- NULL
+while(i<=30){
+  todays_dr <- dr_list[i]
+  print(todays_dr)
+  dat <- as.data.frame(x=0)
+  file <-capture.output(cat("../new.invs/",todays_dr, sep=""))
+  print(file)
+  dat <- read.delim(file, sep="/",
+                        col.names = columnNames, header = FALSE, comment.char="",
+                        blank.lines.skip=FALSE, fill =TRUE)
+  nam <- capture.output(cat("df_",todays_dr, sep=""))
+  assign(nam, dat)
+  testlst[[i]] <- nam
+  i <- i+1
+}
+
+
 
 ##check your 20 --- DO THIS BY HAND--------------------------
 getwd() #assumes answer is git repo folder and new.invs is a sibling folder
 setwd("~/Documents/R-over-shell-drives") #make sure you're in the repo as needed
 
 #write and assign the thing by reading in the lines, carefully, this is a finicky piece of code-------------------------
-df_ax72 <- read.delim("../new.invs/shell.ax72", sep="/",
+df_ax72 <- read.delim("../new.invs/shell.72", sep="/",
                       col.names = columnNames, header = FALSE, comment.char="",
                       blank.lines.skip=FALSE, fill =TRUE)
 
