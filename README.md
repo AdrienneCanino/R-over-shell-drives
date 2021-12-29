@@ -4,7 +4,30 @@ Now we need to curate the data into datasets for archiving
 # Goal: Get through 59 hard drives worth of semi-organized files: audio, csv, excel, pdfs - mostly, and know, sort of, what is where in them. 
 
 ## Summary to Date:
-Seeptember 30, 2021
+December 29, 2021
+### do-it-all type scripts
+`do-it-all-take-one.R` does:
+
+* Takes a specific path to a specific drive in the new.invs, and uses loops to:
+    - pull the file paths to CSVs out
+    - (A step here not in the script - go to `mnt/shell` and get those csvs)
+    - look at those csvs in the CSVs-copied directory
+    - clean the csvs into proper dfs with all their freq points and descriptive info in place
+    - write out the clean deploy dfs
+    - write out the file paths to wav files
+    - find the deployment period, use that string match to find wav files related to that deployment
+    - write a list of those wavs' file paths
+
+* It's very manual, but doesn't take too long, maybe 1-2 hours, for the whole process, 
+    - The next step is for Chris to experiment with that list of wav file paths to ~get~ _copy_ those files out of the `/mnt/shell`
+
+`do-it-all-take-two.R` does:
+
+* uses a .txt list of drives, from the google spreadsheet of wav/csv count, to make a list of drive names
+* uses loops to go through each of those drives and more automatically complete the tasks of `do-it-all-take-one.R`
+* Tries to at least
+
+### old, figure-it-out scripts
 
 `Explore-Access_text.R` does:
 

@@ -206,12 +206,11 @@ df_ax81 %>%
 #might need to check this
 getwd()
 
-# write the file path locations out with the information for the deployment file in the file name I guess? shudder
-df_ax81 %>% 
+# write the file path locations out with the information for the deployment file in the file name I guess?--------------------------
   slice(wavs_index81) %>% 
   slice(temp_index) %>% 
   as.data.frame() -> t
 
 write_lines(t$file_path, file="../df_ax81_cleandeployDF1_related-wav-file-paths.txt", sep="\n", append=FALSE)
 
-## Repeating that process for the other clean deployment dfs from the drive ---------------------
+#Now I have a list of the wav files related to a clean and tidy (ish) spreadsheet of information about that deployment
