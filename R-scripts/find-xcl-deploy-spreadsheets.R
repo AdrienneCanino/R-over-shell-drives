@@ -69,3 +69,7 @@ for(thing in drives_lst){
   
 }
 path_dfs_lst <- lapply(path_dfs_lst, get)
+
+#Can I remove the old dataframes?
+
+## 2 - use these path DFs to find excel files
