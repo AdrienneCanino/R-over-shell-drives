@@ -6,7 +6,7 @@
 #using gitrepo https://github.com/AdrienneCanino/R-over-shell-drives.git
 
 ##Finding deployment info spreadsheets that are not csvs, but that I want to make into CSV
-
+library(tidyverse)
 # 1 - make all the text dummys of the shell drives into dfs with a File_path column I can regex search over
 #make sure wd is local git repo
 files <- list.files(path="../new.invs")
@@ -39,7 +39,8 @@ for(f in files){
 }
 
 #Turn that list of names into object listing the call-able dataframes
-drives_lst<- lapply(drives_lst, get)
+new_drives_lst<- lapply(drives_lst, get)
+
 
 ## Loop through to make file path columns
 
@@ -48,11 +49,11 @@ path_dfs_lst <- NULL
 dat <- NULL
 nam <-  NULL
 
-for(thing in drives_lst){
+for(thing in new_drives_lst){
 
   #re-assign dataframe with united colum
   dat<- 
-    as_tibble(drives_lst[[1]])%>% 
+    as_tibble(new_drives_lst[[i]])%>% 
     #mutate_all(as.character) %>%
     unite(col = "file_path", 1:12, remove = FALSE, na.rm = T, sep = "/")
   
@@ -68,8 +69,10 @@ for(thing in drives_lst){
   i <- i+1
   
 }
-path_dfs_lst <- lapply(path_dfs_lst, get)
+new_path_dfs_lst <- lapply(path_dfs_lst, get)
 
-#Can I remove the old dataframes?
+#optional: use the character (old) drives list to remove all these uneccessary dfs
+#rm(list=drives_lst)
+
 
 ## 2 - use these path DFs to find excel files
