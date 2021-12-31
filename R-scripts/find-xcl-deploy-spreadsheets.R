@@ -75,4 +75,15 @@ new_path_dfs_lst <- lapply(path_dfs_lst, get)
 #rm(list=drives_lst)
 
 
-## 2 - use these path DFs to find excel files
+## 2 - use these path DFs to find excel files-------------------
+#use that col of file paths to find the csvs in this drive
+for(df in new_path_dfs_lst){
+
+  xls_index <-str_which(df$file_path, regex(".xls*$", ignore_case=TRUE))
+  cat(df,"excel files found:",length(xls_index))
+  if(length(xls_index>0)){
+    
+    df_xls <- df[xls_index,]
+    write_lines(df_xls$file_path, file=paste(df, "exl-file-paths.txt", sep="_"))
+  }
+}
