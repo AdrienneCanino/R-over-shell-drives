@@ -7,7 +7,7 @@
 
 ##Finding deployment info spreadsheets that are not csvs, but that I want to make into CSV
 library(tidyverse)
-# 1 - make all the text dummys of the shell drives into dfs with a File_path column I can regex search over
+# 1 - make all the text dummys of the shell drives into dfs with a File_path column I can regex search over-----------------
 #make sure wd is local git repo
 files <- list.files(path="../new.invs")
 
@@ -77,13 +77,19 @@ new_path_dfs_lst <- lapply(path_dfs_lst, get)
 
 ## 2 - use these path DFs to find excel files-------------------
 #use that col of file paths to find the csvs in this drive
+
+#This is a hacky shortcut but I need to know which files it's finding excel in
+i <- 29
+
 for(df in new_path_dfs_lst){
 
   xls_index <-str_which(df$file_path, regex(".xls*$", ignore_case=TRUE))
-  cat(df,"excel files found:",length(xls_index))
-  if(length(xls_index>0)){
+  len <- length(xls_index)
+  print(c(i,"excel files found:",len))
+  if(len>0){
     
     df_xls <- df[xls_index,]
     write_lines(df_xls$file_path, file=paste(df, "exl-file-paths.txt", sep="_"))
   }
+  i <- i+1
 }
