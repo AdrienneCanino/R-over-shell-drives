@@ -1,0 +1,104 @@
+---
+title: "R-over-shell-drives Notebook"
+output: html_notebook
+editor_options: 
+  chunk_output_type: console
+---
+
+# Front matter
+This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code. 
+
+Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Enter*. 
+
+```{r load environment, include=FALSE}
+plot(treering) # a base R command
+library(tidyverse) # the main library used in this notebook
+library(stringi) # a string manipulation library
+
+print("let's get started")
+```
+Outut from code in this notebook will show in the console or a seperate window.
+
+Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
+
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
+
+The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
+
+# Introduction 
+We have 59 hard drives to explore from Shell (as in the oil company). We want to archive any useful raw data, our first goal being to find useful raw passive acoustic data.
+
+## About the drives
+These drives are organized as they were when they were discharged from Shell Oil Company to North Pacific Research Board. Axiom then proposed a small project to extract the passive acoustic data, a 'data archaeology' experiment in rescuing useful scientific data.
+
+That is to say, they're not organized according to any plan, but represent the way the harddrives were used by the scientists during active data management. There's a lot to be learned from them and their organization method, but the goal of the project was to 'rescue' audio files and their contextual metadata. 
+
+These drives were shipped across Alaska and the West Coast to be loaded directly onto Axiom servers, therefore allowing remote access by staff who would attempt the rescue. Axiom has the resulting inventory.
+
+## About the problem
+There is no organization or README or particular point person from Shell attached to the project, so contextual information or institutional knowledge about the drives are limited.  
+The volume of information we're discussin across these 59 hard drives is large: 145.04 terabytes. So it's a very big system to access and peruse 'by hand' through a GUI file/folder explorer. Equally challenging to explore via single command line exercises like 'ls' and 'find'.  
+The types of files on them are varied, from .doc, to .docx, to pdf and wav, and even files without extensions in the name.  
+
+To summarize, we have to use machine methods to search out passive acoustic raw files and their accompanying description files (if any exist).
+
+# Methods
+## Create 'dummy' records
+After a lot of time working remotely with the drives, Chris built a python script that ran over the course of a weekend. It 'walked' the directories of all the drives and recorded the filepaths in progressive steps. This code was written in Python3 using the OS library. Included here, but setup for reproducibility and not recommended to run as it did take all weekend.
+
+```{python}
+import os
+drives=[]
+
+#shelldrives is a text file of drive names made with ls -l >> /home/chris/Documents/shell.scratch/shell.drives
+shelldrives = open("/home/chris/Documents/shell.scratch/shell.drives", "r")
+
+for thing in shelldrives.readlines():
+ 	drives.append(thing)
+
+dirs_to_ignore = ["System Volume Information","_drive","$RECYCLE.BIN"]
+
+for i in drives:
+    drive = i.replace("\n","")
+    outfile = "/home/chris/projects/dc/shell.data.rescue/drive.invs/shell."+drive
+    f = open(outfile,"a")
+    in_dir = "/mnt/shell/"+drive
+    print("Starting to inventory "+in_dir)
+
+    for (dirpath, dirnames, filenames) in os.walk(in_dir):
+        for dirname in dirnames:
+            if dirname in dirs_to_ignore: 
+                pass
+            else:
+                for g in filenames:
+                    f.write(str(os.path.join(dirpath,g))+'\n')
+                for d in dirnames:
+                    f.write(str(os.path.join(dirpath,d))+'\n')
+```
+
+These dummy text files were stored in the `new.invs` directory next to the git repository (because it was too big for github.com to include). They look like this:
+```
+/mnt/shell/ax29/_drive
+/mnt/shell/ax29/System Volume Information
+/mnt/shell/ax29/fw
+/mnt/shell/ax29/System Volume Information/EfaData
+/mnt/shell/ax29/fw/chukchi
+/mnt/shell/ax29/fw/chukchi/2011-summer
+/mnt/shell/ax29/fw/chukchi/2011-summer/CLN90B
+/mnt/shell/ax29/fw/chukchi/2011-summer/KL01
+/mnt/shell/ax29/fw/chukchi/2011-summer/CLN120B
+/mnt/shell/ax29/fw/chukchi/2011-summer/WN20
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL05
+/mnt/shell/ax29/fw/chukchi/2011-summer/BG01
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/acoustic-analysis-20111123T124920.log
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/Temperature_Channel
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/acoustic-analysis-20111123T124920.log
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/Temperature_Channel
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030/Unit030chukchi2011-e1d282a3.E1D282A3.Chan_1-24bps.1311562201.2011-07-25-02-50-01.wav
+/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030/Unit030chukchi2011-e1d282a3.E1D282A3.Chan_1-24bps.1316967601.2011-09-25-16-20-01.wav
+```
+
+
+## Read 'dummy' records into dataframes for tidy manipulation
