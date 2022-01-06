@@ -75,10 +75,10 @@ new_path_dfs_lst <- lapply(path_dfs_lst, get)
 #rm(list=drives_lst)
 
 
-## 2 - use these path DFs to find excel files-------------------
+## 2 - use these path DFs to find excel files, write them out to txt files-------------------
 #use that col of file paths to find the csvs in this drive
 
-#This is a hacky shortcut but I need to know which files it's finding excel in
+#This is a hacky shortcut but I need to know which files it's finding excel in. Also need it to name the write_out files.
 i <- 29
 
 for(df in new_path_dfs_lst){
@@ -89,7 +89,25 @@ for(df in new_path_dfs_lst){
   if(len>0){
     
     df_xls <- df[xls_index,]
-    write_lines(df_xls$file_path, file=paste(df, "exl-file-paths.txt", sep="_"))
+    write_lines(df_xls$file_path, file=paste("exl-file-paths_ax",i,".txt", sep="_"))
   }
   i <- i+1
 }
+
+## I wonder if it finds both .xls, and .xlsx files?
+for(df in new_path_dfs_lst){
+  
+  xlsx_index <-str_which(df$file_path, regex(".xlsx$", ignore_case=TRUE))
+  len <- length(xlsx_index)
+  print(c(i,"excel-10 files found:",len))
+  if(len>0){
+    
+    df_xls <- df[xlsx_index,]
+    write_lines(df_xls$file_path, file=paste("exl-x-file-paths_ax",i,".txt", sep="_"))
+  }
+  i <- i+1
+}
+#apparently missed ax70 before? ok, interesting.
+#Oh yeah, totally missed
+
+## Fin ---------------------------------

@@ -1,0 +1,162 @@
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/overwinter_Species_Detection_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w35_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln80_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b20sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b35sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40ca_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cln80a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pl50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/OverwinterMammalDetectionsALLckd-notes.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b5_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Monthly_Counts.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Percent file checked manually.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results-withspecies.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralwn20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60b_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln80_mammalEvents_ckdbyMarjo.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln40_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/overwinter_Species_Detection_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w35_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln80_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b20sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b35sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40ca_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cln80a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pl50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/OverwinterMammalDetectionsALLckd-notes.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b5_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Monthly_Counts.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Percent file checked manually.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results-withspecies.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralwn20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60b_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln80_mammalEvents_ckdbyMarjo.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln40_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/overwinter_Species_Detection_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w35_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln80_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b20sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b35sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40ca_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cln80a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pl50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/OverwinterMammalDetectionsALLckd-notes.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b5_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Monthly_Counts.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Percent file checked manually.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results-withspecies.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralwn20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60b_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln80_mammalEvents_ckdbyMarjo.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln40_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/overwinter_Species_Detection_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w35_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln80_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b20sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b35sept_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40ca_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results_JD.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn40a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cln80a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pl50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/OverwinterMammalDetectionsALLckd-notes.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/cl5a_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/w50_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/b5_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Monthly_Counts.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Percent file checked manually.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/Overwinter_Detection_Results-withspecies.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralwn20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/pln60b_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln80_mammalEvents_ckdbyMarjo.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralw20_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/auralpln40_mammalEvents.xlsx
+/mnt/shell/ax66/shell/2008AMP/Marine Mammals/wn20_mammalEvents.xlsx
+GMM_old/data/description.xlsx
+GMM_old/misc/GMM_old/data/description.xlsx
+misc/GMM_old/data/description.xlsx
+data/description.xlsx
+misc/GMM_old/data/description.xlsx
+Library/Train/walrus/description.xlsx
+Library/Train/walrus/description.xlsx
+GMM/GMM_old/misc/GMM_old/data/description.xlsx
+GMM/misc/GMM_old/data/description.xlsx
+GMM_old/data/description.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/OBHlocations.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/OBHlocations.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/OBHlocations.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/OBHlocations.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/FileTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_AlphaHelix_CapeFlattery_Chukchi/Analysis/LineTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1a_TimeRange.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1_TimeRange.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1b_TimeRange.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/FilesStartTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1a_TimeRange.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1_TimeRange.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1b_TimeRange.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/FilesStartTimes.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV Anika Marie/SSV Anika Marie/Analysis/A040506.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV Anika Marie/SSV Anika Marie/Analysis/Time_Range.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV Anika Marie/SSV Anika Marie/Analysis/A040506_locut10_4km_test.xlsx
+/mnt/shell/ax66/shell/2008AMP/SSV Anika Marie/SSV Anika Marie/Analysis/A040506_locut15_ecel.xlsx
