@@ -93,6 +93,7 @@ for(df in new_path_dfs_lst){
   }
   i <- i+1
 }
+#finds them in 6 drives
 
 ## I wonder if it finds both .xls, and .xlsx files?
 for(df in new_path_dfs_lst){
@@ -107,6 +108,7 @@ for(df in new_path_dfs_lst){
   }
   i <- i+1
 }
+#finds them in 7 drives
 #apparently missed ax70 before? ok, interesting.
 #Oh yeah, totally missed
 

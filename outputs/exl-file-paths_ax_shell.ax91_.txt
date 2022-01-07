@@ -1,0 +1,1144 @@
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2014-04-09 Delivery A2 T5/NOAA_Transfer_Record_A2_T5.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 1 2015-11-20 Delivery A1 T6/NOAA_Transfer_Record_A1_T6.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 1 2015-11-20 Delivery A1 T6/NOAA_Transfer_Record_A1_T6.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 1 2014-11-19 Delivery A1 T5/NOAA_Transfer_Record_Annex1_T5.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2015-11-20 Delivery A2 T8/NOAA_Transfer_Record_A2_T8.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2015-11-20 Delivery A2 T8/NOAA_Transfer_Record_A2_T8.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2015-11-20 Delivery A2 T8/NOAA_Transfer_Record_A2_T8.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2015-11-20 Delivery A2 T8/NOAA_Transfer_Record_A2_T8.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2015-11-20 Delivery A2 T8/NOAA_Transfer_Record_A2_T8.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/NOAA_Transfer_Record.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2014-11-14 Delivery A2 T7/NOAA_Transfer_Record_Annex2.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2014-11-14 Delivery A2 T7/NOAA_Transfer_Record_Annex2.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2014-11-14 Delivery A2 T7/NOAA_Transfer_Record_Annex2.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2014-11-14 Delivery A2 T7/NOAA_Transfer_Record_Annex2.xlsx
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2014-11-14 Delivery A2 T7/NOAA_Transfer_Record_Annex2.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_NII1302/MMO8-04-13.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_NII1302/MMO8-04-13.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/WWW1302CTD_Edited.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/SeabirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/Zooplankton.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/SeabirdTransectID.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/MarineMammalEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/WWW1302_GEN_OWLines.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/WWW1302CTD_Edited.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/SeabirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/Zooplankton.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/SeabirdTransectID.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/MarineMammalEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1302/WWW1302_GEN_OWLines.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/WWW1301_GEN_OWLines.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/SeabirdsBirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/SeabirdsTransectIdentify.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/MarineMammalsEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/WWW1301_GEN_OWLines.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/SeabirdsBirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/SeabirdsTransectIdentify.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1301/MarineMammalsEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/SedimentsBenthic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/WWW1304_GEN_OWLines.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/MissingLatLong_MammalObservation.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/SeabirdsBirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/WWW1304_CTD_Edited.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/SeabirdsTransectIdentify.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/ZooplanktonZooplankton.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/MarineMammalsEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/SedimentsBenthic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/WWW1304_GEN_OWLines.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/MissingLatLong_MammalObservation.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/SeabirdsBirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/WWW1304_CTD_Edited.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/SeabirdsTransectIdentify.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/ZooplanktonZooplankton.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1304/MarineMammalsEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_SeabirdsBirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_MarineMammalsEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_SeabirdsTransectIdentify.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_MarineMammalObserver.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_SeabirdsBirdObsAtSea.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_MarineMammalsEffort.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/TOS/TOS_WWW1305/WWW1305_SeabirdsTransectIdentify.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2013/_RAW/DROPCAM/WWW1304_Benthic_Camera_Files/WWW1304_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TSG/TSG_WWW1101/WWW1101_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TSG/TSG_WWW1105/WWW1105_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsTransectIdentify_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsBirdObsAtSea_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsTransectIdentify_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsBirdObsAtSea_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsTransectIdentify_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsBirdObsAtSea_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsTransectIdentify_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsBirdObsAtSea_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsTransectIdentify_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/SeabirdsBirdObsAtSea_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1101/SeabirdsTransectIdentify_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1101/Generic_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1101/SeabirdsBirdObsAtSea_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1101/SeabirdsTransectIdentify_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1101/Generic_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1101/SeabirdsBirdObsAtSea_WWW1101.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/GEN0825to0830.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/WWW1103_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/MMO0825to0830.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/MME0825to0830.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/WWW1103_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/GEN0825to0830.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/WWW1103_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/MMO0825to0830.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/MME0825to0830.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1103/WWW1103_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/MME1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/GEN1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/PPM1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/MMO1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_STI.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_PPM.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/STI1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_MMO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/SBO1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_SBO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/MME1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/GEN1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/PPM1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/MMO1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_STI.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_PPM.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/STI1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_MMO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/SBO1006to1014.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1105/WWW1105_SBO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/MME0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/SBE0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_SBO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/GEN0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/ZZP0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_CTD.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/MMO0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_MMO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/PPM0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/STI0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_SBE.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_ZZP.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_PPM.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/CTD0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_STI.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/SBO0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/MME0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/SBE0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_SBO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/GEN0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/ZZP0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_CTD.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/MMO0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_MMO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/PPM0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/STI0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_SBE.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_ZZP.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_PPM.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/CTD0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/WWW1102_STI.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1102/SBO0803to0824.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/PPM0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/SCO0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_SBO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_CTD.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/GEN0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/SBE0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/MME0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_SCO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_STI.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/STI0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_GEN_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_MMO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_ZZP.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/CTD0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_SBE.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/ZZP0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_PPM.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/MMO0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/SBO0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/PPM0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/SCO0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_SBO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_CTD.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/GEN0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/SBE0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/MME0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_SCO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_STI.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/STI0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_GEN_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_MMO.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_ZZP.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_GEN.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/CTD0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_SBE.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/ZZP0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_PPM.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/WWW1104_MME.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/MMO0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/TOS/TOS_WWW1104/SBO0830to1005.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1104/WWW1104_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1101/WWW1101_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1105/WWW1105_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1102/WWW1102_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1103/WWW1103_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1103/WWW1103_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1103/WWW1103_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1103/WWW1103_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/ADCP/ADCP_WWW1103/WWW1103_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/DROPCAM/WWW1104/DropCameraFileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/DROPCAM/WWW1104/DropCameraFileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/DROPCAM/WWW1102/DropCameraFileLog_WWW1102.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/DROPCAM/WWW1102/DropCameraFileLog_WWW1102.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/DROPCAM/WWW1102/DropCameraFileLog_WWW1102.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1104/FileLog_WWW1104.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1103/FileLog_WWW1103.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1103/FileLog_WWW1103.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/2011/_RAW/SPLITBEAM_SONAR/WWW1102/SonarLog_20110823.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/Benthic_Ecology/Epifauna Video/BEN_Epifauna Video_2011.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/Steinar_Eldoy_mammal_pics_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_PHOTO_METADATA.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_MMO_PhotoMetadata.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_PHOTO_METADATA.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_MMO_PhotoMetadata.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_PHOTO_METADATA.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_MMO_PhotoMetadata.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_PHOTO_METADATA.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_MMO_PhotoMetadata.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_PHOTO_METADATA.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_MMO_PhotoMetadata.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_PHOTO_METADATA.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1202/WWW1202_MMO_PhotoMetadata.xlsx
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1204/SBO/WWW1204_SBO_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2008_Media/PHOTOS/Chukchi_2008_photos.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2008_Media/PHOTOS/Chukchi_2008_photos.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2008_Media/PHOTOS/Chukchi_2008_photos.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2008_Media/PHOTOS/Chukchi_2008_photos.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2008_Media/PHOTOS/Chukchi_2008_photos.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2008_Media/PHOTOS/Chukchi_2008_photos.xls
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2008_Media/PHOTOS/Chukchi_2008_photos.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/CTD_WWW1004.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/MarineMammalsEffort_WWW1004_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/MarineMammalsEffort_WWW1004.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/CTD_WWW1004_corected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/CTD_WWW1004.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/MarineMammalsEffort_WWW1004_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/MarineMammalsEffort_WWW1004.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1004/CTD_WWW1004_corected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/MarineMammalsEffort_NII1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/MarineMammalsEffort_NII1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/StudyBox_Deadhead Points.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/MarineMammalsEffort_NII1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/MarineMammalsEffort_NII1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/StudyBox_Deadhead Points.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/MarineMammalsEffort_NII1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/MarineMammalsEffort_NII1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_NII1002/StudyBox_Deadhead Points.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/Zooplankton_WWW1003_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/FisheriesCapture_WWW1003.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/FisheriesCapture_WWW1003_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/ZooplanktonZooplankton_WWW1003.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/Generic_WWW1003.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/Generic_WWW1003_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/Zooplankton_WWW1003_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/FisheriesCapture_WWW1003.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/FisheriesCapture_WWW1003_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/ZooplanktonZooplankton_WWW1003.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/Generic_WWW1003.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1003/Generic_WWW1003_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalObserver_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalObserver_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdBirdObsAtSea_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SedimentsBenthic_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/CTD_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Zooplankton_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalsEffort_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdsTransectIdentify_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/CTD_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdBirdObsAtSea_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Benthic_Ecology_WWW1002_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdsTransectIdentify_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Zooplankton_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Generic_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Generic_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SedimentsBenthic_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalsEffort_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalObserver_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalObserver_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdBirdObsAtSea_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SedimentsBenthic_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/CTD_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Zooplankton_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalsEffort_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdsTransectIdentify_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/CTD_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdBirdObsAtSea_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Benthic_Ecology_WWW1002_PhotoMetadata.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SeabirdsTransectIdentify_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Zooplankton_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Generic_WWW1002_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/Generic_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/SedimentsBenthic_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1002/MarineMammalsEffort_WWW1002.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1005/MarineMammalsEffort_WWW1005_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1005/MarineMammalsEffort_WWW1005.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1005/MarineMammalsEffort_WWW1005_corrected.xls
+/mnt/shell/ax91/CSESP Final/2010/_RAW/TOS/TOS_WWW1005/MarineMammalsEffort_WWW1005.xls
+/mnt/shell/ax91/CSESP Final/2008/_RAW/TSG/Bluefin_TSG_processing log.xlsx
+/mnt/shell/ax91/CSESP Final/2008/_RAW/TSG/Bluefin_TSG_processing log.xlsx
+/mnt/shell/ax91/CSESP Final/2008/_RAW/CTD/data.xls
+/mnt/shell/ax91/CSESP Final/2014/_RAW/CTD/CTD_WWW1404/Cast_Log.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/CTD/CTD_WWW1406/Cast_Log.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/CTD/CTD_WWW1403/Cast_Log.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1405/WWW1405_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_ZZP.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_SBE.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_ZZP.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1404/WWW1404_SBE.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1402/WWW1402_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1402/WWW1402_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1402/WWW1402_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1402/WWW1402_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1402/WWW1402_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1402/WWW1402_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1401/WWW1401_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_SBT.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/TOS/WWW1406/WWW1406_SBT.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch2.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files_Batch3.xlsx
+/mnt/shell/ax91/CSESP Final/2014/_RAW/DROPCAM/WWW1404_Benthic_Camera_Files.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/SBE 39 Temp Graph_24Sept08 to 14Oct08.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/SBE 39 Temp Graph_24Sept08 to 14Oct08.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/SBE 39 Temp Graph_24Sept08 to 14Oct08.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TSG/TSG_WWW0902/sbe21 data log.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0904/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0902/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/CTD/CTD_WWW0903/CTD_FileNames.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/FisheriesSpecimen_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/PhotoMetadata_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/Generic_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/CTD_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/SeabirdsBirdObsAtSea_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/SeabirdsTransectIdentify_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/MarineMammalObserver_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/Zooplankton_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/SedimentsBenthic_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/FisheriesCapture_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/FisheriesSpecimen_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/PhotoMetadata_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/Generic_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/CTD_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/SeabirdsBirdObsAtSea_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/SeabirdsTransectIdentify_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/MarineMammalObserver_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/Zooplankton_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/SedimentsBenthic_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0901/FisheriesCapture_WWW0901.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesSpecimen_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesCapture_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Generic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserver_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Zooplankton_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsBirdObsAtSea_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SedimentsBenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserverMasterWWW0902.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesEpibenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/PhotoMetadata_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsTransectIdentify_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesSpecimen_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesCapture_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Generic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserver_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Zooplankton_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsBirdObsAtSea_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SedimentsBenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserverMasterWWW0902.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesEpibenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/PhotoMetadata_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsTransectIdentify_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesSpecimen_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesCapture_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Generic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserver_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Zooplankton_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsBirdObsAtSea_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SedimentsBenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserverMasterWWW0902.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesEpibenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/PhotoMetadata_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsTransectIdentify_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesSpecimen_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesCapture_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Generic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserver_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/Zooplankton_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsBirdObsAtSea_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SedimentsBenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/MarineMammalObserverMasterWWW0902.xlsx
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/FisheriesEpibenthic_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/PhotoMetadata_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0902/SeabirdsTransectIdentify_WWW0902.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0904/Generic_WWW0904.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0904/Generic_WWW0904.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0904/Generic_WWW0904.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/TOS/TOS_WWW0904/Generic_WWW0904.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0902/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/adcp inventory.xls
+/mnt/shell/ax91/CSESP Final/2009/_RAW/ADCP/ADCP_WWW0904/log.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/UNDERWAY/Norseman II Spot data.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/UNDERWAY/Norseman II Spot data.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1202/WWW1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_NII1202/NII1202_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TSG/TSG_WWW1201/WWW1201_TSG_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/MMO0812to0822.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/MME0812to0822.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/GEN0812to0822.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/MMO0812to0822.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/MME0812to0822.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/GEN0812to0822.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1202/NII1202_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/NII1204_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/MMO1002_1008.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/GEN1002_1008.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/MME1002_1008.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/NII1204_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/NII1204_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/MMO1002_1008.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/GEN1002_1008.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/MME1002_1008.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1204/NII1204_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_SBE.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_STI_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_ZZP.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_CTD_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_SBO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_SBE.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_STI_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_ZZP.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_CTD_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_GEN.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_SBO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1203/WWW1203_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_MMO_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_SBO_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_STI_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_MME_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_GEN_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_MMO_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_SBO_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_STI_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_MME_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1205/WWW1205_GEN_Merged.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_Generic.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_NII1205/NII1205_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_SBE.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_ZZP.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_GEN.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_CTD_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_CTD.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_SBE.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_SBO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_ZZP.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_GEN.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_MME.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_CTD_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_MMO.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1202/WWW1202_STI.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/WWW1201_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MME_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/GEN_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/SBO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MMO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/STI_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/WWW1201_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MME_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/GEN_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/SBO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MMO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/STI_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/WWW1201_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MME_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/GEN_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/SBO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MMO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/STI_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/WWW1201_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MME_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/GEN_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/SBO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MMO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/STI_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/WWW1201_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MME_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/GEN_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/SBO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MMO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/STI_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/WWW1201_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MME_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/GEN_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/SBO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/MMO_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1201/STI_WWW1201.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_SBO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_CTD.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MMO.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_STI.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_SBE.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_CTD_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_STI_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_GEN.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_SBO.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MME.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_ZZP.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MMO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_SBO_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_CTD.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MMO.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_STI.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_SBE.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_CTD_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_STI_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_GEN.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MME_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_SBO.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_MME.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_ZZP.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/TOS/TOS_WWW1204/WWW1204_GEN_CoordRecvr.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1202/WWW1202_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1201/WWW1201_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1201/WWW1201_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1201/WWW1201_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1201/WWW1201_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1201/WWW1201_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1201/WWW1201_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1201/WWW1201_ADCP_FileLog.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/ADCP/ADCP_WWW1203/WWW1203_ADCP_FileLog.xlsx
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.xls

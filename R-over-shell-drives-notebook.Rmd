@@ -14,7 +14,7 @@ Try executing this chunk by clicking the *Run* button within the chunk or by pla
 plot(treering) # a base R command
 library(tidyverse) # the main library used in this notebook
 library(stringi) # a string manipulation library
-
+library(DT) #bring in a library to make nice looking html widget tables in the notebook's output
 print("let's get started")
 ```
 Outut from code in this notebook will show in the console or a seperate window.
@@ -102,3 +102,255 @@ These dummy text files were stored in the `new.invs` directory next to the git r
 
 
 ## Read 'dummy' records into dataframes for tidy manipulation
+Now to create a list of the files, then loop through the list and read the lines and lines of text into an object in R, preferable a dataframe I can manipulate with common tools, rather than be dependent on string manipulation constantly.
+
+```{r loop through read command}
+#make sure wd is local git repo
+files <- list.files(path="../new.invs")
+
+##create column header for the dfs I'm going to make
+columnNames = c("path","directory","subdirectory1", "subdirectory2","subdirectory3","subdirectory4","subdirectory5","subdirectory6","subdirectory7","subdirectory8","subdirectory9","subdirectory10" )
+
+#setup objects I'll use in temporary parts of the loop
+dat <-  NULL
+drives_lst <- NULL
+
+#loop through the read_lines command
+for(f in files){
+  #setup file path for reading
+  pth <- capture.output(cat("../new.invs/",f, sep=""))
+  print(pth)
+  
+  #read in the lines to dataframe with base r read function
+  dat <- read.delim(file=pth, sep="/",
+                col.names = columnNames, header = FALSE, comment.char="",
+                blank.lines.skip=FALSE, fill =TRUE)
+  
+  #make a context specific name for that DF, assign it
+  nam <- paste("df", as.character(f), sep = "_")
+  print(nam)
+  assign(nam, dat)
+  
+  #make a list of DF names to iterate through
+  drives_lst <- append(drives_lst, nam)
+  
+}
+
+#Turn that list of names into object listing the call-able dataframes
+new_drives_lst<- lapply(drives_lst, get)
+```
+
+These dataframes broke down the lines of paths in the text file by the `\` seperator, so I can manipulate the information by subdirectory. 
+For example:
+```{r subdirectory summary example}
+# a summary by count grouped by subdirectory4, or: /mnt/shell/ax81/subdir/sub_subdir/sub_sub-subdir
+df_shell.ax81 %>%
+  group_by(subdirectory4) %>%
+  summarise(n=n()) %>%
+  view()
+
+```
+
+## Include full file paths in these dataframes
+But these dataframes are much more useful with one column that does maintain the real filepaths, so to speak, as those will be the most useful outputs for actually copying and moving the audio files into curated batches.
+
+To do this I'll re-make the dataframes with the filepath column.
+
+```{r loop to create united filepaths col}
+# make loop variables
+i <- 1
+path_dfs_lst <- NULL
+dat <- NULL
+nam <-  NULL
+
+#loop through unite command from dplyr library
+for(thing in new_drives_lst){
+
+  #re-assign dataframe with united colum
+  dat<- 
+    as_tibble(new_drives_lst[[i]])%>% 
+    #mutate_all(as.character) %>%
+    unite(col = "file_path", 1:12, remove = FALSE, na.rm = T, sep = "/")
+  
+  dat$file_path <-trimws(dat$file_path, which="right", whitespace="/")
+  
+  #rename it and list it
+  nam <- paste("paths_df", files[i], sep = "_")
+  print(nam)
+  assign(nam, dat)
+  path_dfs_lst <- append(path_dfs_lst, nam)
+  
+  #iterator
+  i <- i+1
+  
+}
+
+#make that list of names a list of callable objects
+new_path_dfs_lst <- lapply(path_dfs_lst, get)
+```
+
+Now I do not need all of these data frames so I'll use the list of names from creating the first dataframes to remove those 59 objects and free up space in my local machine.
+
+```{r remove earlier DFs }
+rm(list=drives_lst)
+
+```
+
+## Find which drives have wav, csv, or xcl files
+###WAVS
+Now I'll make a loop to find any drives that have wav files present.
+```{r find and write out wav file loop}
+#set iterator for in the loop, what I am actually going to iterate through is the list of drives I have stored in the list-object 'files'
+i <- 1
+
+#loop through the callable-objects list of dfs
+for(df in new_path_dfs_lst){
+  #use tidyverse stringr 'which' command to match a regular expressions pattern
+  wav_index <-str_which(df$file_path, regex(".wav$", ignore_case=TRUE))
+  
+  #get it's length
+  len <- length(wav_index)
+  #a print command to check, printing a call from a list will make it take a little bit of time
+  print(c(files[i],"wav files found:",len))
+  
+  #if there's any matches (a length over 0) write out those file paths to the outputs folder
+  if(len>0){
+    
+    df_wav <- df[wav_index,]
+    write_lines(df_wav$file_path, file=paste("outputs/wav-file_",files[i],".txt", sep="_"))
+  }
+  i <- i+1
+}
+```
+
+###CSVs
+Now I'll look for csvs, particularly the deploymentINFO.csv we know exists in at least a dozen places.
+```{r find and write out csv file loop}
+
+#set iterator for in the loop, what I am actually going to iterate through is the list of drives I have stored in the list-object 'files'
+i <- 1
+
+#loop through the callable-objects list of dfs
+for(df in new_path_dfs_lst){
+  #use tidyverse stringr 'which' command to match a regular expressions pattern
+  csv_index <-str_which(df$file_path, regex(".csv$", ignore_case=TRUE))
+  
+  #get it's length
+  len <- length(csv_index)
+  #a print command to check, printing a call from a list will make it take a little bit of time
+  print(c(files[i],"csv files found:",len))
+  
+  #if there's any matches (a length over 0) write out those file paths to the outputs folder
+  if(len>0){
+    
+    df_wav <- df[wav_index,]
+    write_lines(df_wav$file_path, file=paste("outputs/csv-filepaths_",files[i],".txt", sep="_"))
+  }
+  i <- i+1
+}
+```
+
+###Excel
+In an effort to find more deployment info spreadsheets, let's look for excel style files.
+
+```{r find and write out xls* file loop}
+#set iterator for in the loop, 29 because my drives start their numbering at 29
+i <- 1
+
+#loop through the callable-objects list of dfs
+for(df in new_path_dfs_lst){
+  #use tidyverse stringr 'which' command to match a regular expressions pattern
+  xls_index <-str_which(df$file_path, regex(".xls*$|.xlsx$", ignore_case=TRUE))
+  
+  #get it's length
+  len <- length(xls_index)
+  print(c(files[i],"excel files found:",len))
+  
+  #if there's any matches (a length over 0) write out those file paths to the outputs folder
+  if(len>0){
+    
+    df_xls <- df[xls_index,]
+    write_lines(df_xls$file_path, file=paste("outputs/exl-file-paths_ax",files[i],".txt", sep="_"))
+  }
+  i <- i+1
+}
+```
+There are 7 drives with excel files in them, sometimes, over 1000 evidently?
+### Results, in sum, of what kinds of files where
+```{r make a summary table }
+summaryDF <-  as.data.frame(matrix(0, nrow=1, ncol=4, dimnames=list(NULL,c("drive", "WAVS", "CSVS", "EXCELS"))))
+i <- 1
+ #loop through the callable-objects list of dfs
+ for(df in new_path_dfs_lst){
+   #use tidyverse stringr 'which' command to match a regular expressions pattern
+   xls_index <-str_which(df$file_path, regex(".xls*$|.xlsx$", ignore_case=TRUE))
+   csv_index <-str_which(df$file_path, regex(".csv$", ignore_case=TRUE))
+   wav_index <-str_which(df$file_path, regex(".wav$", ignore_case=TRUE))
+   
+   #get it's length
+   len_xl <- length(xls_index)
+   len_csv <- length(csv_index)
+   len_wv <- length(wav_index)
+   
+   #a print command to check, printing a call from a list will make it take a little bit of time
+   print(c(files[i],"wav files found:",len_wv,"csv files found", len_csv, "excel files found", len_xl))
+   
+   summaryDF[nrow(summaryDF)+1,] =c(files[i], len_wv, len_csv,len_xl)
+   
+   #iterator
+   i <-  i+1
+           
+ }
+```
+
+```{r nice summary table}
+library(DT)
+summaryDF <- summaryDF[-1,]
+datatable(summaryDF, options=list(pageLength=6))
+write_csv(summaryDF, file="sumaryDF.csv")
+```
+
+###optional cleanups
+
+```{r optional cleanups}
+rm(
+  csv_index,
+  wav_index,
+  xls_index,
+  xlsx_index,
+  pth,
+  nam,
+  len_csv,
+  len_wv,
+  len_xl,
+  i,
+  thing
+  #summaryDF
+  )
+```
+
+
+
+## Use the filepaths to get the csv files copied locally
+Now that  we have the file paths to where the deployment information sheets are, I can copy them from where they exist in the remote drives and store them in a directory of this git repo (AKA my local machine).  
+
+The following code is representative of how I did this, but not setup in this notebook for reproducibility.
+```{r engine='bash'}
+ls 
+
+```
+
+
+
+## Use the filepaths to get the Excel files copied locally
+
+## Use the wav filepaths to get the WAV files copied locally
+### First determine the files related to a particular deployment
+
+### Now write a list of those wav filepaths and store it next to the deploymentinfo sheet
+
+### Now carefully copy those filepaths from the remote drives to my local machine
+# Results
+# Discussion
+# Next
+# Back matter
