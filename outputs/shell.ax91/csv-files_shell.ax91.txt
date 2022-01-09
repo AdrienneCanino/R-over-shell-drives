@@ -1,0 +1,64 @@
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/PassiveAcoustics/ACOUST_AMBT_NOISE_2007_11_Ed3.csv
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/PassiveAcoustics/ACOUST_SND_CLIP_2008_11_Ed3.csv
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/PassiveAcoustics/ACOUST_ACQ_2009_11_Ed3.csv
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-08-21 Delivery A2 T3/PassiveAcoustics/ACOUST_MMP_2009_11_Ed3.csv
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/PassiveAcoustics/ACU_ACOUST_MMP_2009_12_Ed4.csv
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/PassiveAcoustics/ACOUST_ACQ_2009_12_Ed4.csv
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/PassiveAcoustics/ACU_ACOUST_AMBT_NOISE_2007_12_Ed4.csv
+/mnt/shell/ax91/NOAA Annex Data/NOAA Annex 2 2013-11-11 Delivery A2 T4/PassiveAcoustics/ACU_ACOUST_SND_CLIP_2008_12_Ed4.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110828_30_MMO_SE_pics_merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2011_Media/PHOTOS/PHOTOS_WWW1103/20110826_29_MMO_SE_pics_Merged.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/2012_Media/PHOTOS/PHOTOS_WWW1201/WWW1201_buoy_EHI_Photo_Metadata.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/Passive_Acoustics/MarMam Presence/ACU_ACOUST_MMP_2009_12_Ed4.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/Passive_Acoustics/Ambient Noise/ACU_ACOUST_AMBT_NOISE_2007_12_Ed4.csv
+/mnt/shell/ax91/CSESP Final/Final Data All Years/Passive_Acoustics/Sound Clips/ACU_ACOUST_SND_CLIP_2008_12_Ed4.csv
+Photos/20120909_Polar_Bear_Photos_Metadata_Merged.csv
+Photos/20120909_Sea_Ice_Photos_Metadata.csv
+Photos/20120909_Polar_Bear_Photos_Metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv
+/mnt/shell/ax91/CSESP Final/2012/_RAW/DROPCAM/BenthicMovie_metadata.csv

@@ -1,0 +1,59 @@
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Alpha Helix SSV lines.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1a_speeds.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1b.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1a_speeds.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1.csv
+/mnt/shell/ax66/shell/2008AMP/SSV_Alpha_Helix_Beaufort/SSV Alpha Helix/Analysis/SSV1b.csv
+/mnt/shell/ax66/shell/2008AMP/SSV Anika Marie/SSV Anika Marie/Analysis/GPS_track_UTM.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.orig.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/calibrations.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.orig.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/calibrations.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.orig.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/calibrations.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.orig.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/calibrations.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.orig.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/calibrations.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/deploymentInfo.orig.csv
+/mnt/shell/ax66/shell/chukchi/2007-overwinter/calibrations.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2008-summer/2008-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv
+/mnt/shell/ax66/shell/chukchi/2007-summer/deploymentInfo.csv

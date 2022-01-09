@@ -1,0 +1,6 @@
+CATEGORY,PHOTO_ID,DATE_TAKEN,LATITUDE,LONGITUDE,LOCATION,DESCRIP,KEYWORD,CONTRACTOR,REPORT,NOTES,METADATA
+Buoys,20120807_MetOcean Buoy transport_RV Westward Wind_003.jpg,8/7/12 16:13,67.719783,-167.732133,RV Westward Wind,MetOcean Buoys - Westward Wind foredeck,"AOS, Evans Hamilton, Vessels",,,,20120805thru20120809_GEN_Coord.csv
+Buoys,"20120807_MetOcean transport_Westward Wind, Chukchi Sea_004.jpg",8/7/12 16:28,,,,MetOcean Transport on Westward Wind,,,,,
+Buoys,20120808_Met_Buoy_Deployment_Near the Central Channel of the Chukchi Sea_005.JPG,8/8/12 12:47,69.75615,-166.951383,Near the Central Channel of the Chukchi Sea,Met_Buoy_Deployment,Instrument Buoy deployment,,,,SBO_PHOTOS_1.csv
+Buoys,20120808_013.jpg,8/8/12 17:08,,,,,,,,,
+Buoys,20120809_TransferBuoyHB02WestwardWindToNorsemanII_Chukchi Sea_022.jpg,8/9/12 10:33,,,,HB02 Buoy Transfer Westward Wind to Norseman II,,,,,

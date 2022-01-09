@@ -1,6 +1,7 @@
 ---
 title: "R-over-shell-drives Notebook"
 output: html_notebook
+  df_print: paged
 editor_options: 
   chunk_output_type: console
 ---
@@ -43,69 +44,70 @@ The types of files on them are varied, from .doc, to .docx, to pdf and wav, and 
 To summarize, we have to use machine methods to search out passive acoustic raw files and their accompanying description files (if any exist).
 
 # Methods
-## Create 'dummy' records
-After a lot of time working remotely with the drives, Chris built a python script that ran over the course of a weekend. It 'walked' the directories of all the drives and recorded the filepaths in progressive steps. This code was written in Python3 using the OS library. Included here, but setup for reproducibility and not recommended to run as it did take all weekend.
+## 1 Create 'dummy' records
+  After a lot of time working remotely with the drives, Chris built a python script that ran over the course of a weekend. It 'walked' the directories of all the drives and recorded the filepaths in progressive steps. This code was written in Python3 using the OS library. Included here, but setup for reproducibility and not recommended to run as it did take all weekend.
+  
+  ```{python}
+  import os
+  drives=[]
+  
+  #shelldrives is a text file of drive names made with ls -l >> /home/chris/Documents/shell.scratch/shell.drives
+  shelldrives = open("/home/chris/Documents/shell.scratch/shell.drives", "r")
+  
+  for thing in shelldrives.readlines():
+   	drives.append(thing)
+  
+  dirs_to_ignore = ["System Volume Information","_drive","$RECYCLE.BIN"]
+  
+  for i in drives:
+      drive = i.replace("\n","")
+      outfile = "/home/chris/projects/dc/shell.data.rescue/drive.invs/shell."+drive
+      f = open(outfile,"a")
+      in_dir = "/mnt/shell/"+drive
+      print("Starting to inventory "+in_dir)
+  
+      for (dirpath, dirnames, filenames) in os.walk(in_dir):
+          for dirname in dirnames:
+              if dirname in dirs_to_ignore: 
+                  pass
+              else:
+                  for g in filenames:
+                      f.write(str(os.path.join(dirpath,g))+'\n')
+                  for d in dirnames:
+                      f.write(str(os.path.join(dirpath,d))+'\n')
+  ```
+  
+  These dummy text files were stored in the `new.invs` directory next to the git repository (because it was too big for github.com to include). They look like this:
+  ```
+  /mnt/shell/ax29/_drive
+  /mnt/shell/ax29/System Volume Information
+  /mnt/shell/ax29/fw
+  /mnt/shell/ax29/System Volume Information/EfaData
+  /mnt/shell/ax29/fw/chukchi
+  /mnt/shell/ax29/fw/chukchi/2011-summer
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CLN90B
+  /mnt/shell/ax29/fw/chukchi/2011-summer/KL01
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CLN120B
+  /mnt/shell/ax29/fw/chukchi/2011-summer/WN20
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL05
+  /mnt/shell/ax29/fw/chukchi/2011-summer/BG01
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/acoustic-analysis-20111123T124920.log
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/Temperature_Channel
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/acoustic-analysis-20111123T124920.log
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/Temperature_Channel
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030/Unit030chukchi2011-e1d282a3.E1D282A3.Chan_1-24bps.1311562201.2011-07-25-02-50-01.wav
+  /mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030/Unit030chukchi2011-e1d282a3.E1D282A3.Chan_1-24bps.1316967601.2011-09-25-16-20-01.wav
+  ```
+  
 
-```{python}
-import os
-drives=[]
-
-#shelldrives is a text file of drive names made with ls -l >> /home/chris/Documents/shell.scratch/shell.drives
-shelldrives = open("/home/chris/Documents/shell.scratch/shell.drives", "r")
-
-for thing in shelldrives.readlines():
- 	drives.append(thing)
-
-dirs_to_ignore = ["System Volume Information","_drive","$RECYCLE.BIN"]
-
-for i in drives:
-    drive = i.replace("\n","")
-    outfile = "/home/chris/projects/dc/shell.data.rescue/drive.invs/shell."+drive
-    f = open(outfile,"a")
-    in_dir = "/mnt/shell/"+drive
-    print("Starting to inventory "+in_dir)
-
-    for (dirpath, dirnames, filenames) in os.walk(in_dir):
-        for dirname in dirnames:
-            if dirname in dirs_to_ignore: 
-                pass
-            else:
-                for g in filenames:
-                    f.write(str(os.path.join(dirpath,g))+'\n')
-                for d in dirnames:
-                    f.write(str(os.path.join(dirpath,d))+'\n')
-```
-
-These dummy text files were stored in the `new.invs` directory next to the git repository (because it was too big for github.com to include). They look like this:
-```
-/mnt/shell/ax29/_drive
-/mnt/shell/ax29/System Volume Information
-/mnt/shell/ax29/fw
-/mnt/shell/ax29/System Volume Information/EfaData
-/mnt/shell/ax29/fw/chukchi
-/mnt/shell/ax29/fw/chukchi/2011-summer
-/mnt/shell/ax29/fw/chukchi/2011-summer/CLN90B
-/mnt/shell/ax29/fw/chukchi/2011-summer/KL01
-/mnt/shell/ax29/fw/chukchi/2011-summer/CLN120B
-/mnt/shell/ax29/fw/chukchi/2011-summer/WN20
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL05
-/mnt/shell/ax29/fw/chukchi/2011-summer/BG01
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/acoustic-analysis-20111123T124920.log
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/Temperature_Channel
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/acoustic-analysis-20111123T124920.log
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/Temperature_Channel
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030/Unit030chukchi2011-e1d282a3.E1D282A3.Chan_1-24bps.1311562201.2011-07-25-02-50-01.wav
-/mnt/shell/ax29/fw/chukchi/2011-summer/CL20/030/Unit030chukchi2011-e1d282a3.E1D282A3.Chan_1-24bps.1316967601.2011-09-25-16-20-01.wav
-```
-
-
-## Read 'dummy' records into dataframes for tidy manipulation
+## 2 Read 'dummy' records into dataframes for tidy manipulation
 Now to create a list of the files, then loop through the list and read the lines and lines of text into an object in R, preferable a dataframe I can manipulate with common tools, rather than be dependent on string manipulation constantly.
 
 ```{r loop through read command}
 #make sure wd is local git repo
+#setwd()
 files <- list.files(path="../new.invs")
 
 ##create column header for the dfs I'm going to make
@@ -151,7 +153,7 @@ df_shell.ax81 %>%
 
 ```
 
-## Include full file paths in these dataframes
+## 3 Include full file paths in these dataframes
 But these dataframes are much more useful with one column that does maintain the real filepaths, so to speak, as those will be the most useful outputs for actually copying and moving the audio files into curated batches.
 
 To do this I'll re-make the dataframes with the filepath column.
@@ -196,7 +198,7 @@ rm(list=drives_lst)
 
 ```
 
-## Find which drives have wav, csv, or xcl files
+## 4 Find which drives have wav, csv, or xcl files
 ###WAVS
 Now I'll make a loop to find any drives that have wav files present.
 ```{r find and write out wav file loop}
@@ -215,9 +217,9 @@ for(df in new_path_dfs_lst){
   
   #if there's any matches (a length over 0) write out those file paths to the outputs folder
   if(len>0){
-    
+    dir.create(path=paste("outputs/",files[i], sep=""))
     df_wav <- df[wav_index,]
-    write_lines(df_wav$file_path, file=paste("outputs/wav-file_",files[i],".txt", sep="_"))
+    write_lines(df_wav$file_path, file=paste("outputs/",files[i],"/wav-files_",files[i],".txt", sep=""))
   }
   i <- i+1
 }
@@ -242,9 +244,11 @@ for(df in new_path_dfs_lst){
   
   #if there's any matches (a length over 0) write out those file paths to the outputs folder
   if(len>0){
-    
-    df_wav <- df[wav_index,]
-    write_lines(df_wav$file_path, file=paste("outputs/csv-filepaths_",files[i],".txt", sep="_"))
+    #check for the dir existing already, make it if it doesn't
+    ifelse(!dir.exists(paste("outputs/",files[i],sep="")), dir.create(paste("outputs/",files[i],sep="")), print("Folder exists"))
+    #make the dataframe, write out the file paths column from it with the right relative filepath
+    df_csv <- df[csv_index,]
+    write_lines(df_csv$file_path, file=paste("outputs/",files[i],"/csv-files_",files[i],".txt", sep=""))
   }
   i <- i+1
 }
@@ -268,14 +272,17 @@ for(df in new_path_dfs_lst){
   
   #if there's any matches (a length over 0) write out those file paths to the outputs folder
   if(len>0){
-    
-    df_xls <- df[xls_index,]
-    write_lines(df_xls$file_path, file=paste("outputs/exl-file-paths_ax",files[i],".txt", sep="_"))
+    #check for the dir existing already, make it if it doesn't
+    ifelse(!dir.exists(paste("outputs/",files[i],sep="")), dir.create(paste("outputs/",files[i],sep="")), print("Folder exists"))
+    #make the dataframe, write out the file paths column from it with the right relative filepath
+    df_xl <- df[xls_index,]
+    write_lines(df_xl$file_path, file=paste("outputs/",files[i],"/xcl-files_",files[i],".txt", sep=""))
   }
   i <- i+1
 }
 ```
 There are 7 drives with excel files in them, sometimes, over 1000 evidently?
+
 ### Results, in sum, of what kinds of files where
 ```{r make a summary table }
 summaryDF <-  as.data.frame(matrix(0, nrow=1, ncol=4, dimnames=list(NULL,c("drive", "WAVS", "CSVS", "EXCELS"))))
@@ -293,7 +300,7 @@ i <- 1
    len_wv <- length(wav_index)
    
    #a print command to check, printing a call from a list will make it take a little bit of time
-   print(c(files[i],"wav files found:",len_wv,"csv files found", len_csv, "excel files found", len_xl))
+   #print(c(files[i],"wav files found:",len_wv,"csv files found", len_csv, "excel files found", len_xl))
    
    summaryDF[nrow(summaryDF)+1,] =c(files[i], len_wv, len_csv,len_xl)
    
@@ -304,10 +311,9 @@ i <- 1
 ```
 
 ```{r nice summary table}
-library(DT)
-summaryDF <- summaryDF[-1,]
-datatable(summaryDF, options=list(pageLength=6))
-write_csv(summaryDF, file="sumaryDF.csv")
+print(summaryDF)
+
+write_csv(summaryDF, file="summaryDF.csv")
 ```
 
 ###optional cleanups
@@ -328,23 +334,34 @@ rm(
   #summaryDF
   )
 ```
+There may be some warnings. Comment out objects as you see fit.
 
 
+## 5 Copy the files to local machine
+Now that  we have the file paths to where the deployment information sheets are, I can copy them from where they exist in the remote drives and store them in a directory of this git repo (AKA my local machine).  I've maintained a drive hierarchy so that related files to eachother are still maintained in a subdirectory of `outputs` withthe name of the drive folder, so I could make a loop to do these things too.
 
-## Use the filepaths to get the csv files copied locally
-Now that  we have the file paths to where the deployment information sheets are, I can copy them from where they exist in the remote drives and store them in a directory of this git repo (AKA my local machine).  
-
+What I want is all csv files, so I can clean any deployment info files.
 The following code is representative of how I did this, but not setup in this notebook for reproducibility.
-```{r engine='bash'}
-ls 
+
+```{label=shell commands for copying files from remote}
+#Pull together a list of all the files I want (all of them)
+cat *.txt > all-shellax29-files.txt
+
+#also aim for or be in the 'outputs' directory of the repo where this notebook/these files were stored
+
+#use command from rsync library to fetch and copy the files as listed in these locations - CSV only for now
+# --no-relative flag is what removes the folder/subfolder structure of the files. Otherwise sit will copy everything in the structure it's in. Useful for context, not for getting all the files I want.
+
+rsync -ar --no-relative / --files-from=/home/adrienne/Documents/R-over-shell-drives/outputs/shell.ax29/all-ax29-csv.txt /home/adrienne/Documents/R-over-shell-drives/outputs/shell.ax29
 
 ```
 
+Rinse and repeat.
 
 
-## Use the filepaths to get the Excel files copied locally
+## 6 Use the filepaths to get the Excel files copied locally
 
-## Use the wav filepaths to get the WAV files copied locally
+## 7 Use the wav filepaths to get the WAV files copied locally
 ### First determine the files related to a particular deployment
 
 ### Now write a list of those wav filepaths and store it next to the deploymentinfo sheet
