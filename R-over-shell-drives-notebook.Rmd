@@ -359,7 +359,47 @@ rsync -ar --no-relative / --files-from=/home/adrienne/Documents/R-over-shell-dri
 Rinse and repeat.
 
 
-## 6 Use the filepaths to get the Excel files copied locally
+## 6 Use the csv files to make cleandeploymentinfo tables
+### Find and make list of csv drive
+``` {r making a csv drive list}
+fls <- list.dirs(path="./outputs")
+for(f in fls){
+  pth <- paste("./",f,sep="")
+  files <- list.files(path=pth, pattern ="*.csv")
+}
+#make a list to iterate through
+
+deploydflst <- NULL
+i <- 1
+testlst <-  NULL
+#operate the loop in the folder where the csvs exist DO THIS PART BY HAND
+#setwd("./ouputs")
+
+for (f in files){
+  
+  #look for number of cols
+  wideness <- count.fields(f,sep=",", comment.char = "",skip=5,blank.lines.skip = FALSE)
+  wideness <- max(wideness)
+  #make dataframe
+  dat <-read.table(f, 
+                   header=F, sep="," ,
+                   blank.lines.skip = FALSE, comment.char="", 
+                   colClasses = c("character","character", "character"),
+                   col.names = 1:wideness) #read table
+  nam <- paste("deployDF", i, sep = "_")
+  print(nam)
+  assign(nam, dat)
+  #make a list to iterate through
+  testlst[[i]] <- nam
+  i <- i+1
+}
+
+#that list isn't what I want, it's just names without pointing to the object DF in R, but this is:
+deploydflst <- lapply(testlst, get)
+
+#clean up what I don't need from that loop
+rm(wideness, dat, nam,f)
+```
 
 ## 7 Use the wav filepaths to get the WAV files copied locally
 ### First determine the files related to a particular deployment
