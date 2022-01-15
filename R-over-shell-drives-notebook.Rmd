@@ -357,7 +357,7 @@ rsync -ar --no-relative / --files-from=/home/adrienne/Documents/R-over-shell-dri
 ```
 
 Rinse and repeat.
-
+I know from my summary DF that not all the drives have CSVS.
 
 ## 6 Use the csv files to make cleandeploymentinfo tables
 ### Find and make list of csv drive
@@ -400,6 +400,9 @@ deploydflst <- lapply(testlst, get)
 #clean up what I don't need from that loop
 rm(wideness, dat, nam,f)
 ```
+
+
+### Use the csvs to make clean deployment files
 
 ## 7 Use the wav filepaths to get the WAV files copied locally
 ### First determine the files related to a particular deployment
