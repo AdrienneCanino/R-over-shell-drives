@@ -366,6 +366,7 @@ fls <- list.dirs(path="./outputs")
 for(f in fls){
   pth <- paste("./",f,sep="")
   files <- list.files(path=pth, pattern ="*.csv")
+  
 }
 #make a list to iterate through
 

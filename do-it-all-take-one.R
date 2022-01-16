@@ -103,6 +103,7 @@ deploydflst <- lapply(testlst, get)
 rm(wideness, dat, nam,f)
 
 
+
   ## Loop 2, make the ugly dataframes clean deployment dataframes ---------------------------------------
 #go through the dataframes and make them clean deployment dataframes with tidy/long details
 freqPoints <- NULL
