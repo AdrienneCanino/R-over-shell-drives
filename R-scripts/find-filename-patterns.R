@@ -143,10 +143,34 @@ for (thing in cleandeplydflst){
   pattrns <-  append(pattrns, val) #add to list
   #pattrns <-  unique(pattrns) #Do I want only the unique ones across both df?
 }
+pattrns[1] #returns "F8A70000.WAV"
+#this needs to be, what, a fuzzy match? Or I need to prune the value of pattrns[1] somehow to only match the ...start of the file?
+#I know that I want to always cut 8 characters off teh end of each string, there's a way to do that manually
+a <- NULL
+#find those patterns 
+for(thing in pattrns){
+  test <-  str_sub(thing,start=1, end=-9)
+  print(test)
+  a <- str_which(df$file_path, test)
+  print(length(a))
+}
+#whoa 2405 matches at one point. Do these numbers add up to the total amount wavs I'm expecting?
+#df[a,] returns expected, but I'm seeing that the match is happening, across what may be lots of matching, I'm not sure it's working.
 
-#find those file paths
-pattrns[1] 
-a <- str_which(df$file_path, pattrns[1]) #this needs to be, what, a fuzzy match? Or I need to prune the value of pattrns[1] somehow to only match the ...start of the file?
+#let's make this loop something that builds something I can use, like a list of file paths
+#setwd() to repo generally
+for(thing in pattrns){
+  test <-  str_sub(thing,start=1, end=-9)
+  a <- str_which(df$file_path, pattern=paste("^",test,sep=""))
+  print(c(test, length(a)))
+  if(length(a)>0){
+    dir.create(path=paste("outputs/ax72",test, sep="_"))
+    df_wav <- df[a,]
+    write_lines(df_wav$file_path, file=paste("outputs/ax72",test,"/wav-files_",test,".txt", sep=""))
+    
+  }
+}
 
-df_ax81[a,]
-seasons_match <-  pattrns
+
+#Save these filename structures matching patterns
+filename_match <-  pattrns
