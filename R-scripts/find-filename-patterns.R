@@ -159,14 +159,17 @@ for(thing in pattrns){
 
 #let's make this loop something that builds something I can use, like a list of file paths
 #setwd() to repo generally
+
+#make a dir for the wav-file-path list outputs
+dir.create(path="./outputs/ax72_deploy-related-files")
+#loop through and find the files
 for(thing in pattrns){
   test <-  str_sub(thing,start=1, end=-9)
-  a <- str_which(df$file_path, pattern=paste("^",test,sep=""))
+  a <- str_which(df$file_path,test)
   print(c(test, length(a)))
   if(length(a)>0){
-    dir.create(path=paste("outputs/ax72",test, sep="_"))
     df_wav <- df[a,]
-    write_lines(df_wav$file_path, file=paste("outputs/ax72",test,"/wav-files_",test,".txt", sep=""))
+    write_lines(df_wav$file_path, file=paste("outputs/ax72_deploy-related-files/",test,"-wav-files.txt", sep=""))
     
   }
 }
@@ -174,3 +177,11 @@ for(thing in pattrns){
 
 #Save these filename structures matching patterns
 filename_match <-  pattrns
+
+#in Shell: cat the txt files together to get on long list of wav files, fetch them, and put them in a folder:
+# cat *.txt >> all-ax72-deploy-related-files.txt
+#Uh ok wow there are over 2300
+#Then in shell, while remote connected to the Shell Drives
+#rsync -ar --no-relative / --files-from=/home/adrienne/Documents/R-over-shell-drives/outputs/ax72_deploy-related-files/all-ax72-deploy-related-files.txt /home/adrienne/Documents/R-over-shell-drives/outputs/ax72_deploy-related-files
+#this may take a while
+#and accidentally make a huge directory.
