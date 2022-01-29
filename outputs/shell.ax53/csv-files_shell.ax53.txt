@@ -1,18 +1,6 @@
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SSS.csv
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/MBE.csv
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SSS.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/MBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SSS.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/MBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SSS.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/MBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SSS.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/MBE.csv
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/SBE.csv
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/Caitlin/SSS.csv
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/Caitlin/MBE.csv
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/Caitlin/SBE.csv
@@ -27,13 +15,6 @@ StrykerUTM.csv
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Data Processing/SSV American Resolution/Analysis/UTM_GPS_Track.csv
 AmResolution.csv
 FileOut.csv
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.csv
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/DeepWater/GPS/part2PGS.csv
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/DeepWater/GPS/part1PGS.csv

@@ -1,4 +1,2 @@
 /mnt/shell/ax74/cpai/chukchi/2009-summer/SpectroDetector-1.0.0/2011-10-20-09-33-07-ericw/WA_detections_summer2009.xlsx
-/mnt/shell/ax74/cpai/chukchi/2009-summer/SpectroDetector-1.0.0/2011-10-20-09-33-07-ericw/WA_detections_summer2009.xlsx
-/mnt/shell/ax74/shell/chukchi/2007-summer/TonalDetector-1.1.5/2011-08-11-14-27-33-ericw/BH_detections_summer2007.xlsx
 /mnt/shell/ax74/shell/chukchi/2007-summer/TonalDetector-1.1.5/2011-08-11-14-27-33-ericw/BH_detections_summer2007.xlsx

@@ -3,227 +3,34 @@
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Travel Expense Claim Form Hazid Seattle Trip.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Equipment.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH1 Deployment Sheet.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Shell SSV - task lists.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/OBH2 Deployment Sheet.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/HSE/4MP HAZID DRAFT Worksheets 4-30-08.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH1 Deployment Sheet Burger.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH2 Deployment Sheet Burger.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH1 Deployment Sheet Burger.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH2 Deployment Sheet Burger.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH1 Deployment Sheet Burger.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH2 Deployment Sheet Burger.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH1 Deployment Sheet Burger.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/OBH2 Deployment Sheet Burger.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/Analysis/FileStartTimes.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/Burger/Analysis/FileStartTimes.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_27Oct09 from Craig.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/2009 Sound Radii_091026 GW_edit_28Oct09.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Burger/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Honeyguide/FileStartTimes.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Honeyguide/FileStartTimes.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Honeyguide/airguns/OBH2_allSPL.xlsx
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Honeyguide/airguns/spl with volume.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/Honeyguide/airguns/CumulativeSEL.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/SSV Line Crackerjack C.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/OBHlocations.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/SSV Line Crackerjack C.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/OBHlocations.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/SSV Line Crackerjack C.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/OBHlocations.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/SSV Line Crackerjack C.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/OBHlocations.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/SSV Line Crackerjack C.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/OBHlocations.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/FileTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/LineTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/FileTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/LineTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/FileTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/LineTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/FileTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/LineTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/FileTimes.xlsx
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/LineTimes.xlsx
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/FileTimes.xlsx
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/SSV_CapeFlattery_Chukchi_Sunfire/Analysis/LineTimes.xlsx
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/90dayAnalysis/VSTACK/geoacoustics/Geoacoustics derived from Hamilton.xls
 /mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2009-ssv/ShellShallowHazardsSSV2009-1/analysis/FileStartTimes.xls
 /mnt/shell/ax53/shell/chukchi/2008-ssv/Maxime SSV August 22 2008/100 110 SPL calculations.xls
-/mnt/shell/ax53/shell/chukchi/2008-ssv/Maxime SSV August 22 2008/100 110 SPL calculations.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-1 Deployment Log.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Diff between channels.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/OBH-2 Deployment Log.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Expenses/invoice.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/HSE/2010 Shallow Hazards HAZID review Rev 5.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/HSE/2010 Shallow Hazards HAZID review Rev 5.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/HSE/2010 Shallow Hazards HAZID review Rev 5.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Analysis/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Analysis/FileStartTimes.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Analysis/FileStartTimes.xls
 40cuin_obh1_approach.xls
 Notes.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV_Geometry.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/gpsmap76_SSH2010SSV_OBHrecovery.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV PLR ALL.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV_Geometry.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/gpsmap76_SSH2010SSV_OBHrecovery.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV PLR ALL.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV_Geometry.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/gpsmap76_SSH2010SSV_OBHrecovery.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV PLR ALL.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV_Geometry.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/gpsmap76_SSH2010SSV_OBHrecovery.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/GPS/SSV PLR ALL.xls
@@ -232,29 +39,11 @@ Notes.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Shipping/Search for the 5 ft container.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Shipping/Equipment Packing List.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Project Management/VESSEL COMMUNICATIONS  LIST FOR CLIENTS Rev 060310.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Project Management/VESSEL COMMUNICATIONS  LIST FOR CLIENTS Rev 060310.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Graham's Project Folder 5 Oct 2010/Project Management/VESSEL COMMUNICATIONS  LIST FOR CLIENTS Rev 060310.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Brendan's Project Folder 6 Oct 2010/Data/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - airguns, SBP, vessel noise/Brendan's Project Folder 6 Oct 2010/Data/FileStartTimes.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/times.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/sources GPS edited.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/times.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/sources GPS edited.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/times.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/sources GPS edited.xls
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/times.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/sources GPS edited.xls
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/times.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell Shallow Hazards 2010 SSV/Shell Shallow Hazards 2010 SSV - high frequency sources/Caitlin's Analysis Folder - HF Shell SSV/data analysis/sources GPS edited.xls
 MBE 240kHz SL calcs.xlsx
 SSS 425kHz SL calcs.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Shell Dev Sources, Recordings, etc.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/Shell Dev, SH SPLs, Radii, SL, third-octave calculations - From Sharepoint.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/Pickfile for third oct band levs at CPA.xlsx
@@ -263,43 +52,10 @@ SSS 425kHz SL calcs.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/QC Checklist for Shell Shallow Hazards Multibeam SSV Data Analysis.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/Caitlin/times.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/SSH Multibeam Analysis GW/Caitlin/sources GPS edited.xls
-MBE 240kHz SL calcs.xlsx
 /mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Terry/BlobExpert.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Terry/BlobExpert.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Terry/BlobExpert.xlsx
-/mnt/shell/ax53/shell/chukchi/2010-ssc/Shell SH and DEV 2010 SSV 90 Day Analysis and Report - GW 11 Jan 2011/90 Day Report/Terry/BlobExpert.xlsx
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Vessels_27072008.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Copy of speeds.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Data Processing/Snow White SSV/Graham/SnowWhiteDist.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Data Processing/SSV Striker/Navigation log.xlsx
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Data Processing/SSV Striker/Navigation log.xlsx
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Data Processing/SSV Striker/Analysis/Range_time.xlsx
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Data Processing/SSV Striker/Analysis/FilesStartTimes.xlsx
@@ -311,25 +67,10 @@ Stryker.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Vessel SSV/Data Processing/SSV American Resolution/Analysis/Time_ranges.xlsx
 AmResolution.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Ramp up procedure.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Ramp up procedure.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Ramp up procedure.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Ramp up procedure.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/ShirleyVCoords.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/DeepWater/GPS/PGSwithJascoGPSShirleyVDeepDIST.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/ShirleyV/DeepWater/GPS/PGSGPSShirleyVDeepDIST.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Sent to client/ShirleyV/Log Notes.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Sent to client/ShirleyV/Log Notes.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Sent to client/ShirleyV/Log Notes.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Sent to client/ShirleyV/Log Notes.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Sent to client/ShirleyV/Log Notes.xls
-/mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Sent to client/WileyGunner/Log Notes.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Seismic SSV/Sent to client/WileyGunner/Log Notes.xls
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Anika Marie SSV 21072008/Analysis/GPS_track_newOBHcoords.xlsx
 /mnt/shell/ax53/shell/chukchi/2007-ssv/Anika Marie SSV 21072008/Analysis/A040506.xlsx

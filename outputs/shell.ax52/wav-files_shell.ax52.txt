@@ -1,6 +1,2 @@
 mnt/shell/ax52/shell/chukchi/2012-ssc/Recordings/Beaufort Drill SSC/AMAR002/ShellDrillLooseModules-00000000.00000000.Chan_5-24bps.1349629213.2012-10-07-17-00-13_shorter_one.wav
 mnt/shell/ax52/shell/chukchi/2012-ssc/Recordings/Beaufort Drill SSC/AMAR002/ShellDrillLooseModules-00000000.00000000.Chan_1-24bps.1349629213.2012-10-07-17-00-13_shorter_one.wav
-mnt/shell/ax52/shell/chukchi/2012-ssc/Recordings/Beaufort Drill SSC/AMAR002/ShellDrillLooseModules-00000000.00000000.Chan_5-24bps.1349629213.2012-10-07-17-00-13_shorter_one.wav
-mnt/shell/ax52/shell/chukchi/2012-ssc/Recordings/Beaufort Drill SSC/AMAR002/ShellDrillLooseModules-00000000.00000000.Chan_1-24bps.1349629213.2012-10-07-17-00-13_shorter_one.wav
-mnt/shell/ax52/shell/chukchi/2012-ssc/Recordings/Beaufort Drill SSC/AMAR002/ShellDrillLooseModules-00000000.00000000.Chan_5-24bps.1349629213.2012-10-07-17-00-13_shorter_one.wav
-mnt/shell/ax52/shell/chukchi/2012-ssc/Recordings/Beaufort Drill SSC/AMAR002/ShellDrillLooseModules-00000000.00000000.Chan_1-24bps.1349629213.2012-10-07-17-00-13_shorter_one.wav

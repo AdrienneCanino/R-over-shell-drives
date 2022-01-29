@@ -1,9 +1,2 @@
 mnt/shell/ax75/fw/chukchi/2014-summer/deploymentInfo.csv
-mnt/shell/ax75/fw/chukchi/2014-summer/deploymentInfo.csv
-mnt/shell/ax75/fw/chukchi/2014-overwinter/deploymentInfo.csv
-mnt/shell/ax75/fw/chukchi/2014-overwinter/deploymentInfo.csv
-mnt/shell/ax75/fw/chukchi/2014-overwinter/deploymentInfo.csv
-mnt/shell/ax75/fw/chukchi/2014-overwinter/deploymentInfo.csv
-mnt/shell/ax75/fw/chukchi/2014-overwinter/deploymentInfo.csv
-mnt/shell/ax75/fw/chukchi/2014-overwinter/deploymentInfo.csv
 mnt/shell/ax75/fw/chukchi/2014-overwinter/deploymentInfo.csv

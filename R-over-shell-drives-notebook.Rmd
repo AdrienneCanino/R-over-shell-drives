@@ -3,7 +3,7 @@ title: "R-over-shell-drives Notebook"
 output: html_notebook
   df_print: paged
 editor_options: 
-  chunk_output_type: console
+  chunk_output_type: inline
 ---
 
 # Front matter
@@ -219,6 +219,7 @@ for(df in new_path_dfs_lst){
   if(len>0){
     dir.create(path=paste("outputs/",files[i], sep=""))
     df_wav <- df[wav_index,]
+    df_wav <-  df_wav %>% distinct()
     write_lines(df_wav$file_path, file=paste("outputs/",files[i],"/wav-files_",files[i],".txt", sep=""))
   }
   i <- i+1
@@ -248,6 +249,7 @@ for(df in new_path_dfs_lst){
     ifelse(!dir.exists(paste("outputs/",files[i],sep="")), dir.create(paste("outputs/",files[i],sep="")), print("Folder exists"))
     #make the dataframe, write out the file paths column from it with the right relative filepath
     df_csv <- df[csv_index,]
+    df_csv <-  df_csv %>% distinct()
     write_lines(df_csv$file_path, file=paste("outputs/",files[i],"/csv-files_",files[i],".txt", sep=""))
   }
   i <- i+1
@@ -276,6 +278,7 @@ for(df in new_path_dfs_lst){
     ifelse(!dir.exists(paste("outputs/",files[i],sep="")), dir.create(paste("outputs/",files[i],sep="")), print("Folder exists"))
     #make the dataframe, write out the file paths column from it with the right relative filepath
     df_xl <- df[xls_index,]
+    df_xl <-  df_xl %>% distinct()
     write_lines(df_xl$file_path, file=paste("outputs/",files[i],"/xcl-files_",files[i],".txt", sep=""))
   }
   i <- i+1
@@ -361,39 +364,44 @@ I know from my summary DF that not all the drives have CSVS.
 
 ## 6 Use the csv files to make cleandeploymentinfo tables
 ### Find and make list of csv drive
-``` {r making a csv drive list}
-fls <- list.dirs(path="./outputs")
-for(f in fls){
-  pth <- paste("./",f,sep="")
-  files <- list.files(path=pth, pattern ="*.csv")
-  
-}
+``` {r making a deployment  csv drive list}
 #make a list to iterate through
-
 deploydflst <- NULL
 i <- 1
 testlst <-  NULL
+fls <- list.dirs(path="./outputs")
 #operate the loop in the folder where the csvs exist DO THIS PART BY HAND
 #setwd("./ouputs")
+#nested for loops?
 
-for (f in files){
-  
-  #look for number of cols
-  wideness <- count.fields(f,sep=",", comment.char = "",skip=5,blank.lines.skip = FALSE)
-  wideness <- max(wideness)
-  #make dataframe
-  dat <-read.table(f, 
-                   header=F, sep="," ,
-                   blank.lines.skip = FALSE, comment.char="", 
-                   colClasses = c("character","character", "character"),
-                   col.names = 1:wideness) #read table
-  nam <- paste("deployDF", i, sep = "_")
-  print(nam)
-  assign(nam, dat)
-  #make a list to iterate through
-  testlst[[i]] <- nam
-  i <- i+1
-}
+for(f in fls){
+  pth <- paste("./",f,sep="")
+  files <- list.files(path=pth, pattern ="*.csv")
+  #use this list of csvs to create deployment info files
+    for (f in files){
+      if(str_detect(f, "deployment"))
+      #look for number of cols
+      wideness <- count.fields(f,sep=",", comment.char = "",skip=5,blank.lines.skip = FALSE)
+      wideness <- max(wideness)
+      #make dataframe
+      dat <-read.table(f, 
+                       header=F, sep="," ,
+                       blank.lines.skip = FALSE, comment.char="", 
+                       colClasses = c("character","character", "character"),
+                       col.names = 1:wideness) #read table
+      nam <- paste("deployDF", i, sep = "_")
+      print(nam)
+      assign(nam, dat)
+      #make a list to iterate through
+      testlst[[i]] <- nam
+      i <- i+1
+      else(print(f,"No deployment csv found"))
+    }
+  }
+
+
+
+
 
 #that list isn't what I want, it's just names without pointing to the object DF in R, but this is:
 deploydflst <- lapply(testlst, get)

@@ -4,99 +4,10 @@ mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Surface Buoy Mooring Cable Length Calculations.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/AMAR download calculation.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Shell Drill Rig Master Equipment List.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/2012-06-18-P001173_AMacGillivray_Travel Expense Claim Form.xls
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/00181 YYYY-MM-DD AMAR XXX Deployment-Retrieval Logs P001XXX-XXX.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Radio Buoy Deployment Log Sheet Template.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC wave times.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort Vessel SSC Tracks Completed.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/directionality.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/~$Beaufort SSC wave times.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC radii.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort Vessel SSC Tracks Completed.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/directionality.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/~$Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC radii.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort Vessel SSC Tracks Completed.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/directionality.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/~$Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC radii.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort Vessel SSC Tracks Completed.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/directionality.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/~$Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC radii.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort Vessel SSC Tracks Completed.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/directionality.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/~$Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC radii.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort Vessel SSC Tracks Completed.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/directionality.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/~$Beaufort SSC wave times.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Analysis/Beaufort SSC radii.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Cal and sync/Dropped samples.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Cal and sync/Beaufort SSC Cal and Sync.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Cal and sync/Dropped samples.xlsx
-mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Cal and sync/Beaufort SSC Cal and Sync.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Cal and sync/Dropped samples.xlsx
 mnt/shell/ax54/shell/chukchi/2012-ssc/Alex Shell 2012 project folder/Cal and sync/Beaufort SSC Cal and Sync.xlsx
